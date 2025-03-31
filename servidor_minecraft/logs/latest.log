@@ -495,3 +495,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 02:09:51.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 joined the game
 [31Mar2025 02:09:51.111] [Server thread/INFO] [Waila/]: Syncing config to Maximous_11 (2a525bc4-513f-3dda-80cd-7095471aaf25)
 [31Mar2025 02:09:51.261] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was loaded
+[31Mar2025 02:14:52.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Isn't It Iron Pick]
+[31Mar2025 02:16:04.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Odd Looking Rocks]
+[31Mar2025 02:16:56.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 fell out of the world
+[31Mar2025 02:16:56.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Killed Maximous_11]
