@@ -450,3 +450,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 01:14:23.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel burned to death
 [31Mar2025 01:14:35.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 burned to death
 [31Mar2025 01:18:16.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Suit Up]
+[31Mar2025 01:25:04.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel fell off a ladder
+[31Mar2025 01:33:28.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Odd Looking Rocks]
+[31Mar2025 01:37:46.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel fell off a ladder
+[31Mar2025 01:38:17.193] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a2666b2
+[31Mar2025 01:38:17.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Azelt13[/127.141.133.186:33187] logged in with entity id 21658 at (2017.5, 64.0, -653.5)
+[31Mar2025 01:38:17.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 joined the game
+[31Mar2025 01:38:17.252] [Server thread/INFO] [Waila/]: Syncing config to Azelt13 (97c8069c-1b68-310f-9372-37847e7cb4fa)
+[31Mar2025 01:38:17.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Ice and Fire]
+[31Mar2025 01:38:18.049] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was loaded
+[31Mar2025 01:38:54.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[31Mar2025 01:39:07.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[31Mar2025 01:44:23.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[31Mar2025 01:44:38.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[31Mar2025 01:45:11.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel fell off a ladder
+[31Mar2025 01:45:38.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was doomed to fall by Skeleton
+[31Mar2025 01:46:06.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was shot by Skeleton
+[31Mar2025 01:46:10.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Sweet Dreams]
+[31Mar2025 01:48:57.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel fell off a ladder
