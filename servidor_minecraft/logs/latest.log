@@ -499,3 +499,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 02:16:04.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Odd Looking Rocks]
 [31Mar2025 02:16:56.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 fell out of the world
 [31Mar2025 02:16:56.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Killed Maximous_11]
+[31Mar2025 02:24:21.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Sweet Dreams]
+[31Mar2025 02:28:28.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Diamonds!]
+[31Mar2025 02:29:12.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
+[31Mar2025 02:29:12.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[31Mar2025 02:29:12.348] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[31Mar2025 02:30:52.455] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@283644ec
+[31Mar2025 02:30:52.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.48.64.160:44487] logged in with entity id 39821 at (2161.699999988079, -39.0, -530.51882592415)
+[31Mar2025 02:30:52.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[31Mar2025 02:30:52.488] [Server thread/INFO] [Waila/]: Syncing config to miguel (864996ac-5f7e-3768-89df-9a426b678bda)
+[31Mar2025 02:30:52.660] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded

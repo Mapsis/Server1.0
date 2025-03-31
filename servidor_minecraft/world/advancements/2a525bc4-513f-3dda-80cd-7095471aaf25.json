@@ -289,10 +289,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-31 02:24:59 +0000",
       "cooked_mutton": "2025-03-30 16:58:17 +0000",
       "cooked_beef": "2025-03-31 01:35:16 +0000",
       "bread": "2025-03-31 01:13:47 +0000",
       "melon_slice": "2025-03-31 01:57:28 +0000",
+      "cooked_chicken": "2025-03-31 02:28:27 +0000",
       "cod": "2025-03-31 01:58:42 +0000"
     },
     "done": false
@@ -543,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-31 02:24:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-03-31 00:38:51 +0000"
@@ -648,6 +656,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-30 16:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-03-31 02:20:57 +0000"
     },
     "done": true
   },
@@ -987,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-03-31 02:20:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-03-31 00:45:04 +0000"
@@ -1080,6 +1100,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-03-31 01:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-03-31 02:20:57 +0000"
     },
     "done": true
   },
