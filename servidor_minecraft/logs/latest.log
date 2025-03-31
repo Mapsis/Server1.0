@@ -478,3 +478,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 01:59:17.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was slain by Ghost
 [31Mar2025 01:59:47.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Who You Gonna Call?]
 [31Mar2025 02:00:26.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was slain by Ghost
+[31Mar2025 02:02:01.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was shot by Pillager
+[31Mar2025 02:03:12.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Who You Gonna Call?]
+[31Mar2025 02:03:49.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Suit Up]
+[31Mar2025 02:03:53.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Suit Up]
+[31Mar2025 02:06:55.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Sweet Dreams]
+[31Mar2025 02:08:43.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was shot by Skeleton
+[31Mar2025 02:09:02.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Acquire Hardware]
+[31Mar2025 02:09:42.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Not Today, Thank You]
+[31Mar2025 02:09:46.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maximous_11 lost connection: Disconnected
+[31Mar2025 02:09:46.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 left the game
+[31Mar2025 02:09:46.549] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was unloaded
+[31Mar2025 02:09:46.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Monster Hunter]
+[31Mar2025 02:09:51.052] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d732b17
+[31Mar2025 02:09:51.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maximous_11[/127.227.221.80:60121] logged in with entity id 32676 at (2029.1767624895554, 80.0, -568.9187103137144)
+[31Mar2025 02:09:51.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 joined the game
+[31Mar2025 02:09:51.111] [Server thread/INFO] [Waila/]: Syncing config to Maximous_11 (2a525bc4-513f-3dda-80cd-7095471aaf25)
+[31Mar2025 02:09:51.261] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was loaded

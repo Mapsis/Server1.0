@@ -297,6 +297,7 @@
       "pufferfish": "2025-03-30 17:16:00 +0000",
       "golden_apple": "2025-03-31 01:18:13 +0000",
       "rotten_flesh": "2025-03-31 01:18:07 +0000",
+      "golden_carrot": "2025-03-31 02:03:40 +0000",
       "cooked_chicken": "2025-03-31 01:13:50 +0000",
       "carrot": "2025-03-31 01:40:16 +0000"
     },
@@ -554,6 +555,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-03-31 02:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-03-31 01:12:42 +0000"
@@ -802,6 +809,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-31 02:01:52 +0000",
       "minecraft:skeleton": "2025-03-31 00:44:15 +0000",
       "minecraft:magma_cube": "2025-03-31 01:07:00 +0000",
       "minecraft:spider": "2025-03-31 00:24:27 +0000",
@@ -1227,6 +1235,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-03-31 00:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-03-31 02:01:37 +0000"
     },
     "done": true
   },
