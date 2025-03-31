@@ -3073,3 +3073,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 01:46:06.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was shot by Skeleton
 [31Mar2025 01:46:10.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Sweet Dreams]
 [31Mar2025 01:48:57.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel fell off a ladder
+[31Mar2025 01:50:57.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 01:50:57.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 01:51:15.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel fell from a high place
+[31Mar2025 01:52:20.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was doomed to fall
+[31Mar2025 01:54:03.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Stone Age]
+[31Mar2025 01:54:07.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Getting an Upgrade]
+[31Mar2025 01:55:57.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 01:55:57.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 01:55:58.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 moved too quickly! 3.6948920451047798,-5.921599998474122,-7.256811979035206
+[31Mar2025 01:56:15.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [You Are A Pirate]
+[31Mar2025 01:56:29.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [You Are A Pirate]
+[31Mar2025 01:59:17.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was slain by Ghost
+[31Mar2025 01:59:47.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Who You Gonna Call?]
+[31Mar2025 02:00:26.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was slain by Ghost
+[31Mar2025 02:00:57.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 02:00:57.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

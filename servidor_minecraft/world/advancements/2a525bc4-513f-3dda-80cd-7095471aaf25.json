@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-03-31 01:57:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-03-31 01:12:28 +0000"
@@ -285,7 +291,9 @@
     "criteria": {
       "cooked_mutton": "2025-03-30 16:58:17 +0000",
       "cooked_beef": "2025-03-31 01:35:16 +0000",
-      "bread": "2025-03-31 01:13:47 +0000"
+      "bread": "2025-03-31 01:13:47 +0000",
+      "melon_slice": "2025-03-31 01:57:28 +0000",
+      "cod": "2025-03-31 01:58:42 +0000"
     },
     "done": false
   },
@@ -304,6 +312,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-03-31 00:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-31 01:57:31 +0000"
     },
     "done": true
   },
@@ -720,6 +734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-31 01:57:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/birch": {
     "criteria": {
       "has_plank": "2025-03-31 01:01:10 +0000"
@@ -777,6 +797,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-03-31 00:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-31 01:57:31 +0000"
     },
     "done": true
   },
@@ -945,6 +971,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-30 16:39:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-03-31 01:56:15 +0000"
     },
     "done": true
   },
@@ -1364,6 +1396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-31 01:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-31 01:13:34 +0000"
@@ -1427,6 +1465,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-03-31 00:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-31 01:57:25 +0000"
     },
     "done": true
   },

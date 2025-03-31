@@ -289,6 +289,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-31 01:54:12 +0000",
       "cooked_mutton": "2025-03-30 16:52:46 +0000",
       "beef": "2025-03-30 17:16:03 +0000",
       "porkchop": "2025-03-30 17:16:19 +0000",
@@ -583,6 +584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-31 01:57:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-30 17:11:59 +0000"
@@ -598,6 +605,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-03-30 17:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-31 01:46:10 +0000"
     },
     "done": true
   },
@@ -792,6 +805,7 @@
       "minecraft:skeleton": "2025-03-31 00:44:15 +0000",
       "minecraft:magma_cube": "2025-03-31 01:07:00 +0000",
       "minecraft:spider": "2025-03-31 00:24:27 +0000",
+      "minecraft:zombified_piglin": "2025-03-31 01:55:42 +0000",
       "minecraft:zombie": "2025-03-31 00:27:32 +0000"
     },
     "done": false
