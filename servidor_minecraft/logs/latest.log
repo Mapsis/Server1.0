@@ -427,3 +427,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 00:37:10.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made miguel a server operator]
 [31Mar2025 00:38:43.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Stone Age]
 [31Mar2025 00:39:20.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Stone Age]
+[31Mar2025 00:40:45.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Getting an Upgrade]
+[31Mar2025 00:41:44.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Getting an Upgrade]
+[31Mar2025 00:44:16.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was blown up by Creeper
+[31Mar2025 00:48:03.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Acquire Hardware]
