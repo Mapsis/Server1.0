@@ -529,3 +529,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 02:47:48.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2027, y=61, z=-635} BlockPos{x=2006, y=62, z=-645}
 [31Mar2025 02:49:02.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
 [31Mar2025 02:49:47.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[31Mar2025 02:53:00.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Sciency Science Doodad]
+[31Mar2025 02:53:59.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2009, y=80, z=-555} BlockPos{x=2006, y=63, z=-642}
+[31Mar2025 02:59:57.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 lost connection: Disconnected
+[31Mar2025 02:59:57.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 left the game
+[31Mar2025 02:59:57.594] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was unloaded
+[31Mar2025 03:01:12.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
+[31Mar2025 03:01:12.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[31Mar2025 03:01:12.245] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[31Mar2025 03:01:12.292] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Mar2025 03:01:19.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maximous_11 lost connection: Disconnected
+[31Mar2025 03:01:19.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 left the game
+[31Mar2025 03:01:19.041] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was unloaded
+[31Mar2025 03:01:38.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[31Mar2025 03:01:38.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Mar2025 03:01:38.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Mar2025 03:01:38.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Mar2025 03:01:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Mar2025 03:01:40.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Mar2025 03:01:40.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Mar2025 03:01:40.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Mar2025 03:01:40.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Mar2025 03:01:40.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Mar2025 03:01:40.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
