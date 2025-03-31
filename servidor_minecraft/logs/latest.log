@@ -509,3 +509,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 02:30:52.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
 [31Mar2025 02:30:52.488] [Server thread/INFO] [Waila/]: Syncing config to miguel (864996ac-5f7e-3768-89df-9a426b678bda)
 [31Mar2025 02:30:52.660] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[31Mar2025 02:40:03.355] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.9.8": journeymap.server.mp.config
+[31Mar2025 02:45:45.111] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.9.8": journeymap.server.mp.config
+[31Mar2025 02:47:16.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maximous_11 lost connection: Disconnected
+[31Mar2025 02:47:16.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 left the game
+[31Mar2025 02:47:16.392] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was unloaded
+[31Mar2025 02:47:19.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2002, y=80, z=-564} BlockPos{x=2027, y=62, z=-636}
+[31Mar2025 02:47:20.547] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@77bb9f3
+[31Mar2025 02:47:20.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maximous_11[/127.227.221.80:49781] logged in with entity id 47221 at (2028.750736618695, 80.0, -570.3199447499367)
+[31Mar2025 02:47:20.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 joined the game
+[31Mar2025 02:47:20.617] [Server thread/INFO] [Waila/]: Syncing config to Maximous_11 (2a525bc4-513f-3dda-80cd-7095471aaf25)
+[31Mar2025 02:47:20.770] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was loaded
+[31Mar2025 02:47:22.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2029, y=62, z=-635} BlockPos{x=2029, y=62, z=-636}
+[31Mar2025 02:47:44.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2027, y=61, z=-635} BlockPos{x=2007, y=63, z=-643}
+[31Mar2025 02:47:44.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2027, y=61, z=-635} BlockPos{x=2006, y=62, z=-644}
+[31Mar2025 02:47:48.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2027, y=61, z=-635} BlockPos{x=2007, y=61, z=-646}
+[31Mar2025 02:47:48.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2027, y=61, z=-635} BlockPos{x=2006, y=61, z=-646}
+[31Mar2025 02:47:48.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2027, y=61, z=-635} BlockPos{x=2005, y=61, z=-646}
+[31Mar2025 02:47:48.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2027, y=61, z=-635} BlockPos{x=2006, y=62, z=-645}
+[31Mar2025 02:49:02.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[31Mar2025 02:49:47.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
