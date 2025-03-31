@@ -447,3 +447,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 01:05:42.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made miguel no longer a server operator]
 [31Mar2025 01:07:29.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was slain by Skeleton
 [31Mar2025 01:08:46.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was shot by Skeleton
+[31Mar2025 01:14:23.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel burned to death
+[31Mar2025 01:14:35.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 burned to death
+[31Mar2025 01:18:16.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Suit Up]

@@ -2901,3 +2901,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 01:05:57.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Mar2025 01:07:29.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was slain by Skeleton
 [31Mar2025 01:08:46.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was shot by Skeleton
+[31Mar2025 01:10:57.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 01:10:57.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 01:14:23.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel burned to death
+[31Mar2025 01:14:35.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 burned to death
+[31Mar2025 01:15:57.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 01:15:57.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 01:18:16.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Suit Up]
