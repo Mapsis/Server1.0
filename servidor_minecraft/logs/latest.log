@@ -401,3 +401,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 00:46:24.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [Diamonds!]
 [01Apr2025 00:50:06.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was slain by Void Hands
 [01Apr2025 00:51:44.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [Suit Up]
+[01Apr2025 01:00:51.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was burnt to a crisp whilst fighting Fire Dragon
+[01Apr2025 01:00:53.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was burnt to a crisp whilst fighting Fire Dragon
+[01Apr2025 01:03:33.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was incinerated by Fire Dragon
+[01Apr2025 01:03:40.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was incinerated by Fire Dragon
+[01Apr2025 01:04:02.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 lost connection: Disconnected
+[01Apr2025 01:04:02.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 left the game
+[01Apr2025 01:04:02.274] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was unloaded
+[01Apr2025 01:04:10.132] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@406a7052
+[01Apr2025 01:04:10.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Azelt13[/127.141.133.186:39635] logged in with entity id 28705 at (2026.130360243022, 80.0, -571.6999999880791)
+[01Apr2025 01:04:10.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 joined the game
+[01Apr2025 01:04:10.182] [Server thread/INFO] [Waila/]: Syncing config to Azelt13 (97c8069c-1b68-310f-9372-37847e7cb4fa)
+[01Apr2025 01:04:10.425] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was loaded
+[01Apr2025 01:05:58.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Diamonds!]
+[01Apr2025 01:07:38.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [Sweet Dreams]
+[01Apr2025 01:10:38.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 fell from a high place
+[01Apr2025 01:19:04.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 fell from a high place
+[01Apr2025 01:20:07.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was turned into KFC by Fire Dragon
+[01Apr2025 01:20:28.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Fishy Business]
+[01Apr2025 01:20:35.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made Maximous_11 no longer a server operator]
+[01Apr2025 01:23:39.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was burnt to a crisp whilst fighting Fire Dragon
+[01Apr2025 01:26:10.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 walked into fire whilst fighting Fire Dragon
+[01Apr2025 01:29:20.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Isn't It Iron Pick]
+[01Apr2025 01:31:58.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Dragonslayer]
+[01Apr2025 01:41:45.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Cover Me with Diamonds]
