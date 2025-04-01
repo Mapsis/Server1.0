@@ -526,3 +526,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 02:07:35.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 lost connection: Timed out
 [01Apr2025 02:07:35.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 left the game
 [01Apr2025 02:07:35.320] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Apr2025 02:08:48.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was slain by Ghost
+[01Apr2025 02:14:40.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [A Seedy Place]
