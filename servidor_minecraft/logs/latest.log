@@ -515,3 +515,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 01:56:29.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [01Apr2025 01:56:29.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [01Apr2025 01:56:29.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Apr2025 01:58:30.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was slain by Zombie
+[01Apr2025 02:01:36.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Book of Monsters]
+[01Apr2025 02:02:01.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charlieedu1 lost connection: Disconnected
+[01Apr2025 02:02:01.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 left the game
+[01Apr2025 02:02:01.331] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ef306fe3-5d58-384c-8418-4dffcd9c9740 was unloaded
+[01Apr2025 02:02:04.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 hit the ground too hard
+[01Apr2025 02:07:14.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [My Name is Nobody]
+[01Apr2025 02:07:18.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was slain by Zombie
+[01Apr2025 02:07:35.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 lost connection: Timed out
+[01Apr2025 02:07:35.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 left the game
+[01Apr2025 02:07:35.320] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
