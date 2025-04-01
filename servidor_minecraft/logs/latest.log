@@ -528,3 +528,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 02:07:35.320] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [01Apr2025 02:08:48.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was slain by Ghost
 [01Apr2025 02:14:40.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [A Seedy Place]
+[01Apr2025 02:53:11.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[01Apr2025 02:53:11.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: save<--[HERE]
+[01Apr2025 02:53:16.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[01Apr2025 02:53:16.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: saveall<--[HERE]
+[01Apr2025 02:53:23.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Maximous_11 a server operator
+[01Apr2025 02:53:46.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[01Apr2025 02:53:46.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[01Apr2025 02:53:56.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made Maximous_11 no longer a server operator]
+[01Apr2025 02:54:03.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maximous_11 lost connection: Disconnected
+[01Apr2025 02:54:03.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 left the game
+[01Apr2025 02:54:03.820] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was unloaded
+[01Apr2025 02:54:27.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[01Apr2025 02:54:27.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Apr2025 02:54:27.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Apr2025 02:54:27.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Apr2025 02:54:28.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Apr2025 02:54:28.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Apr2025 02:54:28.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Apr2025 02:54:29.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Apr2025 02:54:29.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Apr2025 02:54:29.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Apr2025 02:54:29.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
