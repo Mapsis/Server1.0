@@ -376,3 +376,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 00:14:34.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
 [01Apr2025 00:14:47.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
 [01Apr2025 00:16:31.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set the time to 1000]
+[01Apr2025 00:16:35.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set the weather to clear]
+[01Apr2025 00:22:34.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [Acquire Hardware]
+[01Apr2025 00:23:18.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [Isn't It Iron Pick]
+[01Apr2025 00:26:34.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [Monster Hunter]
+[01Apr2025 00:27:04.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [Stone Age]
+[01Apr2025 00:31:31.335] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3f1c1b81
+[01Apr2025 00:31:31.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Azelt13[/127.141.133.186:33963] logged in with entity id 6734 at (2014.2131260177152, 80.0, -554.8267900524593)
+[01Apr2025 00:31:31.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 joined the game
+[01Apr2025 00:31:31.401] [Server thread/INFO] [Waila/]: Syncing config to Azelt13 (97c8069c-1b68-310f-9372-37847e7cb4fa)
+[01Apr2025 00:31:32.180] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was loaded
+[01Apr2025 00:31:39.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Ice Bucket Challenge]
+[01Apr2025 00:37:14.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maximous_11 lost connection: Disconnected
+[01Apr2025 00:37:14.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 left the game
+[01Apr2025 00:37:14.882] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was unloaded
+[01Apr2025 00:37:19.240] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b62badb
+[01Apr2025 00:37:19.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maximous_11[/127.227.221.80:39685] logged in with entity id 10549 at (1259.5324671849241, 80.0, 320.2141671556952)
+[01Apr2025 00:37:19.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 joined the game
+[01Apr2025 00:37:19.257] [Server thread/INFO] [Waila/]: Syncing config to Maximous_11 (2a525bc4-513f-3dda-80cd-7095471aaf25)
+[01Apr2025 00:37:19.857] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was loaded
+[01Apr2025 00:37:28.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 moved too quickly! -10.080496625986825,-0.8800391385729398,-1.220056998581299
+[01Apr2025 00:41:53.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Ice Bucket Challenge]
+[01Apr2025 00:42:39.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was turned into KFC by Fire Dragon
+[01Apr2025 00:46:24.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [Diamonds!]
