@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 23:14:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-03-31 00:37:43 +0000"
@@ -344,6 +350,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-03-31 01:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-03 23:13:36 +0000"
     },
     "done": true
   },
@@ -516,6 +528,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-03-30 17:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-04-03 23:14:39 +0000"
     },
     "done": true
   },
@@ -1048,6 +1066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 23:14:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-01 01:05:58 +0000"
@@ -1069,6 +1093,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-31 00:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 23:14:39 +0000"
     },
     "done": true
   },
@@ -1162,6 +1192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 23:14:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-03-30 17:42:13 +0000"
@@ -1171,6 +1207,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-03-31 00:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-03 23:13:36 +0000"
     },
     "done": true
   },
@@ -1654,6 +1696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 23:14:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-03-31 00:38:43 +0000"
@@ -1707,6 +1755,7 @@
       "minecraft:cold_ocean": "2025-03-30 17:35:10 +0000",
       "minecraft:forest": "2025-03-30 16:45:57 +0000",
       "minecraft:deep_cold_ocean": "2025-03-30 17:34:34 +0000",
+      "minecraft:frozen_ocean": "2025-04-03 23:19:33 +0000",
       "minecraft:ocean": "2025-03-30 17:50:15 +0000",
       "minecraft:jungle": "2025-03-30 17:35:58 +0000",
       "minecraft:snowy_beach": "2025-03-30 17:13:07 +0000",
@@ -1803,6 +1852,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-03-31 02:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 23:14:39 +0000"
     },
     "done": true
   },
@@ -2001,6 +2056,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-03-30 17:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 23:14:39 +0000"
     },
     "done": true
   },

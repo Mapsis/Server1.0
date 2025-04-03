@@ -1333,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-03 23:16:17 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-03-31 02:17:46 +0000"
@@ -1779,14 +1785,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-04-03 23:19:26 +0000",
+      "minecraft:sunflower_plains": "2025-04-03 23:14:11 +0000",
+      "minecraft:birch_forest": "2025-04-03 23:11:43 +0000",
       "minecraft:beach": "2025-03-31 01:42:36 +0000",
       "minecraft:dark_forest": "2025-03-31 02:22:19 +0000",
       "minecraft:lukewarm_ocean": "2025-03-31 01:47:22 +0000",
       "minecraft:river": "2025-03-31 01:38:17 +0000",
       "minecraft:dripstone_caves": "2025-03-31 02:38:59 +0000",
+      "minecraft:snowy_taiga": "2025-04-03 23:19:22 +0000",
+      "minecraft:cold_ocean": "2025-04-03 23:17:31 +0000",
       "minecraft:forest": "2025-03-31 01:38:30 +0000",
       "minecraft:lush_caves": "2025-03-31 02:11:59 +0000",
+      "minecraft:frozen_ocean": "2025-04-03 23:19:34 +0000",
       "minecraft:ocean": "2025-03-31 01:47:21 +0000",
+      "minecraft:snowy_beach": "2025-04-03 23:19:31 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-01 01:59:53 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-31 01:53:38 +0000",
       "minecraft:savanna": "2025-04-01 00:38:21 +0000",
@@ -1893,6 +1906,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-31 01:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-03 23:18:17 +0000"
     },
     "done": true
   },
