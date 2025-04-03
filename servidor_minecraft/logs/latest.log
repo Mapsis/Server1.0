@@ -478,3 +478,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 23:22:44.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
 [03Apr2025 23:22:44.406] [Server thread/INFO] [Waila/]: Syncing config to miguel (864996ac-5f7e-3768-89df-9a426b678bda)
 [03Apr2025 23:22:44.955] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[03Apr2025 23:24:03.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Book of Monsters]
+[03Apr2025 23:24:14.705] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14749, l='ServerLevel[world]', x=1084.23, y=83.75, z=2245.70] died, message: 'Farmer was slain by Ghost'
+[03Apr2025 23:25:06.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/14765, l='ServerLevel[world]', x=1010.18, y=73.02, z=2284.38] died, message: 'Armorer was slain by Ghost'
+[03Apr2025 23:28:25.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Not Today, Thank You]
+[03Apr2025 23:29:18.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel hit the ground too hard whilst trying to escape Evoker
+[03Apr2025 23:32:39.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has completed the challenge [Hero of the Village]
+[03Apr2025 23:32:39.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has completed the challenge [Hero of the Village]
