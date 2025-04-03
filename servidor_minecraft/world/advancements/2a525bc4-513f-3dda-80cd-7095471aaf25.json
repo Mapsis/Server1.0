@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-03 23:32:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-03-31 01:13:34 +0000"
@@ -379,6 +385,7 @@
       "cooked_beef": "2025-03-31 01:35:16 +0000",
       "beef": "2025-03-31 02:34:54 +0000",
       "apple": "2025-04-01 02:21:59 +0000",
+      "spider_eye": "2025-04-03 23:41:48 +0000",
       "potato": "2025-04-02 00:23:07 +0000",
       "mutton": "2025-04-03 23:25:44 +0000",
       "bread": "2025-03-31 01:13:47 +0000",
@@ -599,6 +606,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-04-03 23:51:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 01:02:16 +0000"
@@ -815,6 +828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-04-03 23:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-01 01:41:21 +0000"
@@ -951,6 +970,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-31 02:02:13 +0000",
       "minecraft:skeleton": "2025-03-30 17:56:55 +0000",
+      "minecraft:ravager": "2025-04-03 23:32:37 +0000",
       "minecraft:vindicator": "2025-04-03 23:28:29 +0000",
       "minecraft:magma_cube": "2025-03-31 01:17:22 +0000",
       "minecraft:spider": "2025-03-30 17:05:49 +0000",
@@ -1477,6 +1497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-04-03 23:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-30 17:05:50 +0000"
@@ -1816,6 +1842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-04-03 23:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-31 00:58:56 +0000"
@@ -1960,9 +1992,21 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-04-03 23:35:05 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-03-30 16:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-03 23:51:41 +0000"
     },
     "done": true
   },

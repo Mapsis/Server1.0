@@ -485,3 +485,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 23:29:18.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel hit the ground too hard whilst trying to escape Evoker
 [03Apr2025 23:32:39.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has completed the challenge [Hero of the Village]
 [03Apr2025 23:32:39.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has completed the challenge [Hero of the Village]
+[03Apr2025 23:35:05.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has reached the goal [Pray to the Goddess]
+[03Apr2025 23:38:51.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
+[03Apr2025 23:38:51.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[03Apr2025 23:38:51.596] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[03Apr2025 23:40:25.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made maximous_|| no longer a server operator]
+[03Apr2025 23:40:29.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made Maximous_11 no longer a server operator]
+[03Apr2025 23:45:24.455] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@41a23849
+[03Apr2025 23:45:24.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.159.222.31:51189] logged in with entity id 32574 at (1844.329694227375, 61.0, 1258.639141892183)
+[03Apr2025 23:45:24.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[03Apr2025 23:45:24.470] [Server thread/INFO] [Waila/]: Syncing config to miguel (864996ac-5f7e-3768-89df-9a426b678bda)
+[03Apr2025 23:45:25.020] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[03Apr2025 23:51:41.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [The Parrots and the Bats]
