@@ -102,3 +102,14 @@
 [04Apr2025 01:07:58.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 joined the game
 [04Apr2025 01:07:58.057] [Server thread/INFO] [Waila/]: Syncing config to Maximous_11 (2a525bc4-513f-3dda-80cd-7095471aaf25)
 [04Apr2025 01:07:58.566] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was loaded
+[04Apr2025 01:22:43.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [Fishy Business]
+[04Apr2025 01:32:30.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [Odd Looking Rocks]
+[04Apr2025 01:44:29.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was slain by Phantom
+[04Apr2025 01:44:42.900] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@13891213
+[04Apr2025 01:44:42.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Azelt13[/127.141.133.186:58183] logged in with entity id 125417 at (1127.8440600901336, 76.0, 2299.329536359542)
+[04Apr2025 01:44:42.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 joined the game
+[04Apr2025 01:44:42.909] [Server thread/INFO] [Waila/]: Syncing config to Azelt13 (97c8069c-1b68-310f-9372-37847e7cb4fa)
+[04Apr2025 01:44:43.961] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was loaded
+[04Apr2025 01:48:18.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel moved too quickly! -1.2934618738349855,0.0,10.157409281251148
+[04Apr2025 01:49:34.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[04Apr2025 01:49:34.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
