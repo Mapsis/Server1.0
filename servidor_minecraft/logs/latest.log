@@ -129,3 +129,18 @@
 [04Apr2025 02:01:13.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 joined the game
 [04Apr2025 02:01:13.537] [Server thread/INFO] [Waila/]: Syncing config to Charlieedu1 (ef306fe3-5d58-384c-8418-4dffcd9c9740)
 [04Apr2025 02:01:13.761] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ef306fe3-5d58-384c-8418-4dffcd9c9740 was loaded
+[04Apr2025 02:14:01.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 lost connection: Timed out
+[04Apr2025 02:14:01.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 left the game
+[04Apr2025 02:14:01.043] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was unloaded
+[04Apr2025 02:15:51.447] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [parcool:message,sophisticatedbackpacks:channel,citadel:main_channel,iceandfire:main_channel,forge:tier_sorting,selene:network,mowziesmobs:net,paraglider:master,supplementaries:network,sophisticatedcore:channel,midnightlurker:midnightlurker,geckolib3:main,waystones:network] rejected vanilla connections
+[04Apr2025 02:15:51.448] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[04Apr2025 02:17:11.851] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b64ceaa
+[04Apr2025 02:17:11.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Azelt13[/127.141.133.186:53243] logged in with entity id 153269 at (1057.5045522136083, 64.0, 2283.192209832881)
+[04Apr2025 02:17:11.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 joined the game
+[04Apr2025 02:17:11.860] [Server thread/INFO] [Waila/]: Syncing config to Azelt13 (97c8069c-1b68-310f-9372-37847e7cb4fa)
+[04Apr2025 02:17:12.702] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was loaded
+[04Apr2025 02:17:49.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[04Apr2025 02:17:49.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[04Apr2025 02:18:04.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Azelt13) moved wrongly! 0.2502773046621769
+[04Apr2025 02:18:04.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Azelt13) moved wrongly! 0.25500501573105794
+[04Apr2025 02:18:04.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Azelt13) moved wrongly! 0.25784164220340244
