@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-04 02:22:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-03-30 16:37:22 +0000"
@@ -218,6 +224,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-02 00:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-04 02:22:33 +0000"
     },
     "done": true
   },
@@ -571,7 +583,8 @@
       "minecraft:enderman": "2025-04-02 00:48:30 +0000",
       "minecraft:stray": "2025-04-03 23:19:26 +0000",
       "minecraft:zombie": "2025-03-31 00:27:32 +0000",
-      "minecraft:drowned": "2025-04-02 01:07:36 +0000"
+      "minecraft:drowned": "2025-04-02 01:07:36 +0000",
+      "minecraft:zombie_villager": "2025-04-04 02:19:28 +0000"
     },
     "done": false
   },
@@ -1352,6 +1365,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-03-31 00:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-04 02:22:33 +0000"
     },
     "done": true
   },
@@ -2364,6 +2383,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-03-31 01:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-04-04 02:20:06 +0000"
     },
     "done": true
   },
