@@ -158,3 +158,16 @@
 [04Apr2025 02:57:56.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 fell from a high place
 [04Apr2025 03:14:03.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
 [04Apr2025 03:14:03.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[04Apr2025 03:25:54.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[04Apr2025 03:25:54.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[04Apr2025 03:25:59.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[04Apr2025 03:25:59.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Apr2025 03:25:59.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Apr2025 03:25:59.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Apr2025 03:26:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Apr2025 03:26:02.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Apr2025 03:26:02.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Apr2025 03:26:02.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Apr2025 03:26:02.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Apr2025 03:26:02.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Apr2025 03:26:02.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
