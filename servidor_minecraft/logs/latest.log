@@ -3,3 +3,24 @@
 [04Apr2025 00:04:34.185] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/47329, l='ServerLevel[world]', x=1078.70, y=67.42, z=2733.63] died, message: 'Toolsmith was slain by Ghost'
 [04Apr2025 00:04:36.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel fell off a ladder
 [04Apr2025 00:04:59.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was blown up by Creeper
+[04Apr2025 00:06:10.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
+[04Apr2025 00:06:10.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[04Apr2025 00:06:10.545] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[04Apr2025 00:09:23.147] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c9cf871
+[04Apr2025 00:09:23.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.159.222.31:39007] logged in with entity id 57821 at (2055.762499988079, 133.5625, -421.96313844861686)
+[04Apr2025 00:09:23.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[04Apr2025 00:09:23.178] [Server thread/INFO] [Waila/]: Syncing config to miguel (864996ac-5f7e-3768-89df-9a426b678bda)
+[04Apr2025 00:09:23.424] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[04Apr2025 00:10:26.735] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/56892, l='ServerLevel[world]', x=1162.73, y=70.00, z=2756.60] died, message: 'Unemployed was turned into KFC by Fire Dragon'
+[04Apr2025 00:10:43.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/56895, l='ServerLevel[world]', x=1159.07, y=69.00, z=2733.92] died, message: 'Unemployed was slain by Fire Dragon'
+[04Apr2025 00:10:47.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/56854, l='ServerLevel[world]', x=1165.26, y=69.94, z=2725.73] died, message: 'Unemployed was turned into KFC by Fire Dragon'
+[04Apr2025 00:13:20.529] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/56855, l='ServerLevel[world]', x=1135.47, y=69.00, z=2747.21] died, message: 'Mason was burnt to a crisp whilst fighting Fire Dragon'
+[04Apr2025 00:15:25.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Ol' Betsy]
+[04Apr2025 00:15:25.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Take Aim]
+[04Apr2025 00:15:57.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was burnt to a crisp whilst fighting Fire Dragon
+[04Apr2025 00:18:34.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has reached the goal [Pray to the Goddess]
+[04Apr2025 00:22:33.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was incinerated by miguel
+[04Apr2025 00:22:45.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was turned into KFC by Fire Dragon
+[04Apr2025 00:23:18.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was slain by Fire Dragon
+[04Apr2025 00:24:33.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was slain by Zombie
+[04Apr2025 00:25:22.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1009, y=65, z=2637} BlockPos{x=1008, y=64, z=2637}
