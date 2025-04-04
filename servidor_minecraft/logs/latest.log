@@ -113,3 +113,19 @@
 [04Apr2025 01:48:18.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel moved too quickly! -1.2934618738349855,0.0,10.157409281251148
 [04Apr2025 01:49:34.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
 [04Apr2025 01:49:34.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[04Apr2025 02:00:41.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charlieedu1 lost connection: Timed out
+[04Apr2025 02:00:41.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 left the game
+[04Apr2025 02:00:41.398] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ef306fe3-5d58-384c-8418-4dffcd9c9740 was unloaded
+[04Apr2025 02:00:50.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Timed out
+[04Apr2025 02:00:50.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[04Apr2025 02:00:50.139] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[04Apr2025 02:01:04.689] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@699617b7
+[04Apr2025 02:01:04.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.159.222.31:49219] logged in with entity id 140688 at (893.3156843504563, 96.0, 2723.0767694037477)
+[04Apr2025 02:01:04.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[04Apr2025 02:01:04.699] [Server thread/INFO] [Waila/]: Syncing config to miguel (864996ac-5f7e-3768-89df-9a426b678bda)
+[04Apr2025 02:01:05.311] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[04Apr2025 02:01:13.493] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@56e6a679
+[04Apr2025 02:01:13.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Charlieedu1[/127.17.238.55:57805] logged in with entity id 141048 at (2109.2683104885914, 63.0, -688.5657341561002)
+[04Apr2025 02:01:13.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 joined the game
+[04Apr2025 02:01:13.537] [Server thread/INFO] [Waila/]: Syncing config to Charlieedu1 (ef306fe3-5d58-384c-8418-4dffcd9c9740)
+[04Apr2025 02:01:13.761] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ef306fe3-5d58-384c-8418-4dffcd9c9740 was loaded
