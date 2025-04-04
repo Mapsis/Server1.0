@@ -663,12 +663,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-04 00:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-01 00:26:34 +0000",
       "minecraft:spider": "2025-04-01 01:55:49 +0000",
       "minecraft:creeper": "2025-04-03 23:23:57 +0000",
-      "minecraft:zombie": "2025-04-01 00:48:14 +0000"
+      "minecraft:zombie": "2025-04-01 00:48:14 +0000",
+      "minecraft:drowned": "2025-04-04 00:01:54 +0000"
     },
     "done": false
   },
@@ -699,6 +706,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-01 00:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-04 00:03:13 +0000"
     },
     "done": true
   },
@@ -795,6 +808,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-01 00:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-04 00:03:13 +0000"
     },
     "done": true
   },
