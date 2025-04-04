@@ -3656,3 +3656,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 00:24:49.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Apr2025 00:24:49.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Apr2025 00:25:22.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1009, y=65, z=2637} BlockPos{x=1008, y=64, z=2637}
+[04Apr2025 00:27:01.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was slain by Spider
+[04Apr2025 00:27:14.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel fell off a ladder
+[04Apr2025 00:28:47.040] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/74169, l='ServerLevel[world]', x=1078.30, y=66.94, z=2278.82] died, message: 'Unemployed was slain by Ghost'
+[04Apr2025 00:28:47.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/74167, l='ServerLevel[world]', x=1078.30, y=67.94, z=2279.70] died, message: 'Unemployed was slain by Ghost'
+[04Apr2025 00:29:49.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Apr2025 00:29:49.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Apr2025 00:30:44.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was shot by Skeleton
+[04Apr2025 00:33:09.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Diamonds!]
+[04Apr2025 00:33:34.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was shot by Skeleton
+[04Apr2025 00:34:49.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Apr2025 00:34:49.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

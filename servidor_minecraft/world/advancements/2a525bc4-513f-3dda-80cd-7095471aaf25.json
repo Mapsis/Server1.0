@@ -389,6 +389,7 @@
       "potato": "2025-04-02 00:23:07 +0000",
       "mutton": "2025-04-03 23:25:44 +0000",
       "bread": "2025-03-31 01:13:47 +0000",
+      "golden_apple": "2025-04-04 00:25:04 +0000",
       "rotten_flesh": "2025-04-03 23:26:39 +0000",
       "melon_slice": "2025-03-31 01:57:28 +0000",
       "cooked_chicken": "2025-03-31 02:28:27 +0000",
@@ -399,6 +400,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-03-30 17:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-04 00:26:55 +0000"
     },
     "done": true
   },
@@ -1092,6 +1099,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 01:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-04 00:26:55 +0000"
     },
     "done": true
   },
