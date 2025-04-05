@@ -436,3 +436,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 21:30:12.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> si pero eres de mala suerte
 [05Apr2025 21:30:19.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> ./gamemode creative
 [05Apr2025 21:31:08.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> namas atrevete
+[05Apr2025 21:33:42.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> muestrame la aldea
+[05Apr2025 21:33:48.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[05Apr2025 21:33:56.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> vas a ahacer que los maten
+[05Apr2025 21:34:03.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> y veras la revolucion industrial
+[05Apr2025 21:34:34.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> esta a 1km
+[05Apr2025 21:34:45.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> para que lado?
+[05Apr2025 21:37:42.729] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@77236e43
+[05Apr2025 21:37:42.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.199.40.82:37569] logged in with entity id 14209 at (924.0823450281868, 71.0, 2723.588579106469)
+[05Apr2025 21:37:42.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[05Apr2025 21:37:44.343] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[05Apr2025 21:38:25.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> HOLA
+[05Apr2025 21:38:33.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> buenas
+[05Apr2025 21:38:42.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> ola
+[05Apr2025 21:49:21.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 lost connection: Timed out
+[05Apr2025 21:49:21.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 left the game
+[05Apr2025 21:49:21.026] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was unloaded
+[05Apr2025 21:49:21.065] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Apr2025 21:49:24.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> ok
+[05Apr2025 21:53:14.918] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@725b0af1
+[05Apr2025 21:53:14.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Azelt13[/127.141.133.186:46927] logged in with entity id 28202 at (2947.080309589056, 63.63016494177282, -1335.3732051087597)
+[05Apr2025 21:53:14.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 joined the game
+[05Apr2025 21:53:16.365] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was loaded
+[05Apr2025 21:53:18.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> ok
+[05Apr2025 21:53:32.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was slain by Midnight Lurker
+[05Apr2025 21:53:36.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> ok
+[05Apr2025 21:55:18.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> nadie llamada?
+[05Apr2025 21:55:47.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> el playlist esta beuno mano
+[05Apr2025 21:55:52.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> x2
+[05Apr2025 21:55:57.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> x3

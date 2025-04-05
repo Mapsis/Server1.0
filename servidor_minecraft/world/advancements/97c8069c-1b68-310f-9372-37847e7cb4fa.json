@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-05 21:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-03-31 01:53:06 +0000"
@@ -856,6 +862,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-03-31 02:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-05 21:57:25 +0000"
     },
     "done": true
   },
@@ -1782,6 +1794,7 @@
       "dried_kelp": "2025-04-01 01:18:27 +0000",
       "salmon": "2025-04-05 02:07:13 +0000",
       "melon_slice": "2025-03-31 02:05:57 +0000",
+      "golden_carrot": "2025-04-05 21:45:54 +0000",
       "cooked_rabbit": "2025-04-05 02:58:24 +0000",
       "cooked_chicken": "2025-03-31 02:43:43 +0000",
       "mushroom_stew": "2025-03-31 02:00:08 +0000",
@@ -2765,6 +2778,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-04-05 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-05 21:38:03 +0000"
     },
     "done": true
   },
