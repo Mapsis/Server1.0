@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-05 21:59:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/dark_oak": {
     "criteria": {
       "has_plank": "2025-03-31 01:27:57 +0000"
