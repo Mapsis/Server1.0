@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-04-05 01:49:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-02 00:52:52 +0000"
@@ -1204,6 +1210,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-02 01:12:06 +0000",
       "minecraft:taiga": "2025-03-30 17:14:47 +0000",
+      "minecraft:deep_ocean": "2025-04-05 02:01:29 +0000",
       "minecraft:frozen_river": "2025-03-30 17:13:08 +0000",
       "minecraft:sunflower_plains": "2025-03-30 16:37:48 +0000",
       "minecraft:birch_forest": "2025-03-30 17:34:06 +0000",
@@ -1473,6 +1480,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-04-02 00:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-05 02:03:44 +0000"
     },
     "done": true
   },

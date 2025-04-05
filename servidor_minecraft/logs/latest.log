@@ -378,3 +378,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 01:39:29.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> xp
 [05Apr2025 01:39:43.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> no se valen hacks
 [05Apr2025 01:40:36.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has reached the goal [Half a flight]
+[05Apr2025 01:49:26.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Surfer Rosa]
+[05Apr2025 01:54:58.764] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@aec08b2
+[05Apr2025 01:54:58.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Charlieedu1[/127.15.185.54:35289] logged in with entity id 25546 at (2068.9260574160053, 64.0, -672.9816003682583)
+[05Apr2025 01:54:58.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 joined the game
+[05Apr2025 01:54:58.820] [Server thread/INFO] [Waila/]: Syncing config to Charlieedu1 (ef306fe3-5d58-384c-8418-4dffcd9c9740)
+[05Apr2025 01:54:59.233] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ef306fe3-5d58-384c-8418-4dffcd9c9740 was loaded
+[05Apr2025 01:56:31.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> tienen madera de roble?
+[05Apr2025 01:57:11.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> si
+[05Apr2025 01:58:24.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> no olvidalo
+[05Apr2025 01:59:26.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> comida tienes?
+[05Apr2025 01:59:34.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> si
+[05Apr2025 02:00:40.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> dale pal disc
+[05Apr2025 02:00:50.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> dale wu gafo
+[05Apr2025 02:00:55.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> ya estouy
+[05Apr2025 02:00:56.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> faltas eres tu
+[05Apr2025 02:00:59.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> wu?
+[05Apr2025 02:01:10.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> quien es ese, de karate kid
+[05Apr2025 02:01:27.812] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55dd8fb6
+[05Apr2025 02:01:27.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Azelt13[/127.141.133.186:41791] logged in with entity id 30445 at (1082.0173244935295, 64.0, 2299.178729880501)
+[05Apr2025 02:01:27.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 joined the game
+[05Apr2025 02:01:27.855] [Server thread/INFO] [Waila/]: Syncing config to Azelt13 (97c8069c-1b68-310f-9372-37847e7cb4fa)
+[05Apr2025 02:01:28.896] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was loaded
+[05Apr2025 02:01:33.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 5.602150377377029,0.0,8.284448620124294
+[05Apr2025 02:01:33.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 5.7402945413427915,0.0,8.47550178449228
+[05Apr2025 02:01:33.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 5.86462428561822,0.0,8.647449627868355
+[05Apr2025 02:01:33.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 5.976521052501994,0.0,8.802202682807547
+[05Apr2025 02:01:33.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 6.077228140029547,0.0,8.941480428562954
+[05Apr2025 02:01:33.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 6.16786451640337,0.0,9.06683039642212
+[05Apr2025 02:01:33.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 6.249437252978851,0.0,9.179645364506996
+[05Apr2025 02:01:33.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 6.322852713951988,0.0,9.28117883309369
+[05Apr2025 02:01:33.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 6.388926627077353,0.0,9.37255895240105
+[05Apr2025 02:01:33.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 6.448393147314846,0.0,9.45480105759907
+[05Apr2025 02:01:33.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 6.501913014110869,0.0,9.528818950316236
+[05Apr2025 02:01:33.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of miguel) moved too quickly! 6.5500808929512,0.0,9.595435051996901
+[05Apr2025 02:01:34.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[05Apr2025 02:05:27.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Book of Monsters]
+[05Apr2025 02:07:51.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4427ms or 88 ticks behind
+[05Apr2025 02:07:55.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was slain by Fire Dragon
