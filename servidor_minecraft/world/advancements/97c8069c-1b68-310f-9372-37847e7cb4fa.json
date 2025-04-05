@@ -604,6 +604,7 @@
       "minecraft:pillager": "2025-04-03 23:28:11 +0000",
       "minecraft:skeleton": "2025-03-31 02:09:46 +0000",
       "minecraft:spider": "2025-03-31 02:20:57 +0000",
+      "minecraft:creeper": "2025-04-05 22:52:26 +0000",
       "minecraft:phantom": "2025-04-04 02:19:20 +0000",
       "minecraft:enderman": "2025-04-05 03:07:07 +0000",
       "minecraft:stray": "2025-04-05 02:53:41 +0000",
@@ -2232,6 +2233,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 02:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-05 22:47:46 +0000"
     },
     "done": true
   },
