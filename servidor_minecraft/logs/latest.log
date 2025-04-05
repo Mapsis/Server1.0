@@ -390,3 +390,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 18:55:30.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
 [05Apr2025 18:55:30.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
 [05Apr2025 18:55:30.665] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[05Apr2025 20:22:56.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[05Apr2025 20:22:56.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
