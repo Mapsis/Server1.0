@@ -474,3 +474,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 03:06:13.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has completed the challenge [Praise the Sun]
 [05Apr2025 03:07:47.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was impaled by Drowned
 [05Apr2025 03:09:29.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was slain by Zombie
+[05Apr2025 03:13:02.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[05Apr2025 03:13:02.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[05Apr2025 03:16:46.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[05Apr2025 03:16:46.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[05Apr2025 03:18:00.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has reached the goal [Zombie Doctor]
+[05Apr2025 03:19:48.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -6.193049847210887,0.0,-8.258558019591192
+[05Apr2025 03:19:48.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -6.474920952777211,0.0,-8.539850002519415
+[05Apr2025 03:19:48.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -6.758770222213343,0.0,-8.819281692927689
+[05Apr2025 03:19:48.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -7.044462714534802,0.0,-9.096966743309622
+[05Apr2025 03:19:48.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -7.331869293859427,0.0,-9.373016003486782
+[05Apr2025 03:19:48.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -7.620868604446741,0.0,-9.647534936127158
+[05Apr2025 03:19:48.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -7.911348822154878,0.0,-9.920621273949337
+[05Apr2025 03:19:48.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -8.203201731743775,0.0,-10.192371643285242
+[05Apr2025 03:19:57.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[05Apr2025 03:19:58.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -9.379269096371218,0.0,3.9793340049789094
+[05Apr2025 03:19:58.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -9.676157992924573,0.0,4.235063180507268
+[05Apr2025 03:19:58.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -9.970573602071227,0.0,4.494533432545268
+[05Apr2025 03:19:58.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -10.262664733583506,0.0,4.757461813068858
+[05Apr2025 03:19:58.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -10.552576320760636,0.0,5.023582971692349
+[05Apr2025 03:19:58.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -10.840447068124831,0.0,5.292650083700664
+[05Apr2025 03:19:58.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -11.126410137629364,0.0,5.564433066399715
+[05Apr2025 03:19:58.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -11.41059091081047,0.0,5.838719531243896
+[05Apr2025 03:19:58.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -11.693110653928898,0.0,6.115310490536103
+[05Apr2025 03:19:58.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -11.974081263331527,0.0,6.394024186183742
+[05Apr2025 03:19:58.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -12.25361193566414,0.0,6.674689272402475
+[05Apr2025 03:19:58.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.516816556672211,0.0,-7.605163518455129
+[05Apr2025 03:19:58.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.516816556672211,0.0,-7.605163518455129
+[05Apr2025 03:19:58.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.516816556672211,0.0,-7.605163518455129
+[05Apr2025 03:19:58.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.516816556672211,0.0,-7.605163518455129
+[05Apr2025 03:19:58.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.516816556672211,0.0,-7.605163518455129
+[05Apr2025 03:19:58.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.516816556672211,0.0,-7.605163518455129
+[05Apr2025 03:19:58.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.516816556672211,0.0,-7.605163518455129
+[05Apr2025 03:19:58.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.516816556672211,0.0,-7.605163518455129
+[05Apr2025 03:19:58.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.516816556672211,0.0,-7.605163518455129
+[05Apr2025 03:19:58.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.516816556672211,0.0,-7.605163518455129
+[05Apr2025 03:19:58.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.516816556672211,0.0,-7.605163518455129
+[05Apr2025 03:19:58.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.249176364849063,0.0,-7.3089319536265975
+[05Apr2025 03:21:08.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 lost connection: Disconnected
+[05Apr2025 03:21:08.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 left the game
+[05Apr2025 03:21:08.174] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was unloaded
+[05Apr2025 03:21:38.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 7.781837126428172,0.0,6.898619891482895
+[05Apr2025 03:21:38.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 8.081115348023332,0.0,7.16398148229564
+[05Apr2025 03:21:38.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 8.380393059239395,0.0,7.429343733744645
+[05Apr2025 03:21:47.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
+[05Apr2025 03:21:47.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[05Apr2025 03:21:47.809] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[05Apr2025 03:30:15.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Maximous_11 a server operator
+[05Apr2025 03:30:26.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[05Apr2025 03:31:34.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Charlieedu1 to Maximous_11]
