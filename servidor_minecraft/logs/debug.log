@@ -3219,3 +3219,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 23:02:01.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> de que hablas
 [05Apr2025 23:02:28.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Apr2025 23:02:28.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 23:04:14.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> gay el que pueda hablar
+[05Apr2025 23:04:17.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56929, l='ServerLevel[world]', x=2930.62, y=65.00, z=-1287.63] died, message: 'Villager was slain by Zombie'
+[05Apr2025 23:04:29.616] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56927, l='ServerLevel[world]', x=2929.39, y=65.00, z=-1285.18] died, message: 'Villager was slain by Zombie'
+[05Apr2025 23:07:28.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 23:07:28.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 23:07:30.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> mas alla del muro
+[05Apr2025 23:07:47.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> Trump: Mas Alla del Muro
+[05Apr2025 23:09:16.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2926, y=65, z=-1358} BlockPos{x=2927, y=63, z=-1359}
+[05Apr2025 23:12:28.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 23:12:28.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 23:15:29.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [A Seedy Place]
+[05Apr2025 23:16:42.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[05Apr2025 23:17:03.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 moved too quickly! 0.0499255719194025,-0.04353562014750878,10.304899876251056
+[05Apr2025 23:17:13.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[05Apr2025 23:17:28.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 23:17:28.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 23:18:07.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made miguel no longer a server operator]
+[05Apr2025 23:18:43.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> voy a tener que moverlo
+[05Apr2025 23:18:47.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1903, y=86, z=-515} BlockPos{x=2019, y=65, z=-653}
+[05Apr2025 23:18:55.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made Azelt13 a server operator]
+[05Apr2025 23:18:57.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> dale ahora
+[05Apr2025 23:19:19.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> es por la zona de proteccion
+[05Apr2025 23:19:34.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/94143, l='ServerLevel[world]', x=2878.30, y=65.00, z=-1343.70] died, message: 'Nitwit was slain by Zombie'
+[05Apr2025 23:19:46.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> una zona de proteccion para evitar que se rompan cosas en un rango desde el punto de spawn
+[05Apr2025 23:19:51.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> creo que esta a 10 bloques
+[05Apr2025 23:20:05.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> pero el waystone esta justo encima
+[05Apr2025 23:20:38.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made Azelt13 no longer a server operator]
+[05Apr2025 23:21:40.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> voy a moverlo
+[05Apr2025 23:21:43.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[05Apr2025 23:21:58.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> andrw
+[05Apr2025 23:22:08.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> te voy a hacer tp un segundo para que me digas donde puedes picar
+[05Apr2025 23:22:26.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Charlieedu1 to Maximous_11]
+[05Apr2025 23:22:28.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 23:22:28.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 23:22:31.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made Charlieedu1 no longer a server operator]
+[05Apr2025 23:22:37.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1904, y=101, z=-460} BlockPos{x=2019, y=62, z=-646}
+[05Apr2025 23:22:47.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1904, y=101, z=-460} BlockPos{x=2020, y=62, z=-639}
+[05Apr2025 23:22:47.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1904, y=101, z=-460} BlockPos{x=2020, y=62, z=-640}
+[05Apr2025 23:22:47.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1904, y=101, z=-460} BlockPos{x=2019, y=62, z=-640}
+[05Apr2025 23:22:47.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1904, y=101, z=-460} BlockPos{x=2020, y=62, z=-640}
+[05Apr2025 23:23:01.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> y si lo pongo aca?
+[05Apr2025 23:23:05.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> en tu base
+[05Apr2025 23:23:19.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Charlieedu1 to Maximous_11]
+[05Apr2025 23:23:34.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ahi?
+[05Apr2025 23:23:44.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> igual despues se le puede hacer una decoracion
+[05Apr2025 23:24:08.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> hazte tp a ver andrw
+[05Apr2025 23:24:13.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> te devuelvo la xp
