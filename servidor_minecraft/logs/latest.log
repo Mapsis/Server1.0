@@ -393,3 +393,46 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 21:16:09.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set the time to 1000]
 [05Apr2025 21:17:45.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> ahora la pequeña ?
 [05Apr2025 21:18:09.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> sis
+[05Apr2025 21:24:35.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> que paso ?
+[05Apr2025 21:24:42.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> son las 2 losas
+[05Apr2025 21:24:48.818] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@529c8777
+[05Apr2025 21:24:48.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Azelt13[/127.141.133.186:46837] logged in with entity id 6943 at (2020.636846847107, 64.0, -651.9502418164009)
+[05Apr2025 21:24:48.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 joined the game
+[05Apr2025 21:24:49.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> si no se ve raro desde abajo
+[05Apr2025 21:24:49.539] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was loaded
+[05Apr2025 21:25:02.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> buenas tardes
+[05Apr2025 21:25:15.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> buenas
+[05Apr2025 21:25:34.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2019, y=65, z=-653}
+[05Apr2025 21:25:46.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> bueno gracias
+[05Apr2025 21:25:50.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> el tp del spawn no sirve
+[05Apr2025 21:26:07.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> como que no
+[05Apr2025 21:26:16.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2019, y=65, z=-653}
+[05Apr2025 21:26:20.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> dice error
+[05Apr2025 21:26:21.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2019, y=65, z=-653}
+[05Apr2025 21:26:36.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ahora
+[05Apr2025 21:26:39.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2019, y=65, z=-653}
+[05Apr2025 21:26:41.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> nop
+[05Apr2025 21:26:45.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> espera
+[05Apr2025 21:26:48.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> puedes picar esto
+[05Apr2025 21:26:54.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2019, y=63, z=-662}
+[05Apr2025 21:26:59.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> no
+[05Apr2025 21:27:00.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2019, y=63, z=-662}
+[05Apr2025 21:27:06.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made Azelt13 a server operator]
+[05Apr2025 21:27:11.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> prueba ahora
+[05Apr2025 21:27:26.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> ahora si
+[05Apr2025 21:27:36.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made Charlieedu1 a server operator]
+[05Apr2025 21:27:46.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> igual no tengo xp para usarlo xd
+[05Apr2025 21:27:49.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set Charlieedu1's game mode to Survival Mode
+[05Apr2025 21:28:20.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made Azelt13 no longer a server operator]
+[05Apr2025 21:28:26.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[05Apr2025 21:28:32.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> prueba ahora si puedes picar andrew
+[05Apr2025 21:29:04.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> ahora no
+[05Apr2025 21:29:07.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1977, y=65, z=-708} BlockPos{x=2019, y=65, z=-653}
+[05Apr2025 21:29:08.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> njd ya va
+[05Apr2025 21:29:52.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> bueno te dejo el operador para que puedas picar
+[05Apr2025 21:29:55.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> no abuses
+[05Apr2025 21:29:59.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made Azelt13 a server operator]
+[05Apr2025 21:29:59.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> hay una aldea por aqui cerca?
+[05Apr2025 21:30:12.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> si pero eres de mala suerte
+[05Apr2025 21:30:19.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Azelt13> ./gamemode creative
+[05Apr2025 21:31:08.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> namas atrevete
