@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-05 02:29:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-01 00:45:32 +0000"
@@ -323,6 +329,7 @@
       "cooked_mutton": "2025-04-01 00:14:49 +0000",
       "beetroot_soup": "2025-04-05 02:22:32 +0000",
       "apple": "2025-04-03 23:29:13 +0000",
+      "potato": "2025-04-05 02:35:38 +0000",
       "cooked_cod": "2025-04-01 01:23:02 +0000",
       "bread": "2025-04-02 02:21:41 +0000",
       "beetroot": "2025-04-04 01:50:39 +0000",
@@ -501,6 +508,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-02 01:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-05 02:29:42 +0000"
     },
     "done": true
   },
@@ -1207,6 +1220,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-04-01 00:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-05 02:29:42 +0000"
     },
     "done": true
   },

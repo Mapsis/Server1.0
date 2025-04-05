@@ -424,3 +424,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 02:24:04.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was burnt to a crisp whilst fighting Fire Dragon
 [05Apr2025 02:28:55.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Dragonslayer]
 [05Apr2025 02:28:57.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maximous_11 moved too quickly! 4.921759292336674,1.2491870787446828,-8.883004462895201
+[05Apr2025 02:33:43.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was doomed to fall by Umvuthi, the Sunbird
+[05Apr2025 02:34:23.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Apr2025 02:36:38.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was slain by Umvuthi, the Sunbird
+[05Apr2025 02:38:09.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel hit the ground too hard whilst trying to escape Umvuthi, the Sunbird
