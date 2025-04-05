@@ -385,3 +385,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 16:13:20.185] [Server thread/INFO] [Waila/]: Syncing config to miguel (864996ac-5f7e-3768-89df-9a426b678bda)
 [05Apr2025 16:13:21.185] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
 [05Apr2025 17:52:30.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel moved wrongly!
+[05Apr2025 18:18:33.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel moved wrongly!
+[05Apr2025 18:18:33.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel moved wrongly!
