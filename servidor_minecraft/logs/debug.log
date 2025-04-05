@@ -2666,3 +2666,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 01:14:00.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Apr2025 01:14:05.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> tienes slime?
 [05Apr2025 01:14:19.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> nei
+[05Apr2025 01:19:00.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 01:19:00.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 01:23:38.843] [Worker-Main-4/DEBUG] [mixin/]: Mixing MuteSetBlockFarChunk from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Apr2025 01:23:42.539] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Apr2025 01:23:42.540] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$2(Lnet/minecraft/world/level/levelgen/structure/pools/StructurePoolElement;)Z to md01a16d$lambda$getShuffledTemplates$2$0 in waystones.mixins.json:JigsawPlacementMixin
+[05Apr2025 01:23:42.540] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$1(Ljava/lang/String;)Z to md01a16d$lambda$getShuffledTemplates$1$1 in waystones.mixins.json:JigsawPlacementMixin
+[05Apr2025 01:23:42.540] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledTemplates$0(Ljava/lang/Object;)Ljava/lang/String; to md01a16d$lambda$getShuffledTemplates$0$2 in waystones.mixins.json:JigsawPlacementMixin
+[05Apr2025 01:24:00.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 01:24:00.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 01:29:00.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 01:29:00.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 01:34:00.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 01:34:00.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
