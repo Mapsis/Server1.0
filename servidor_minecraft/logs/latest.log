@@ -428,3 +428,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 02:34:23.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was burnt to a crisp whilst fighting Umvuthi, the Sunbird
 [05Apr2025 02:36:38.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was slain by Umvuthi, the Sunbird
 [05Apr2025 02:38:09.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel hit the ground too hard whilst trying to escape Umvuthi, the Sunbird
+[05Apr2025 02:40:39.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has completed the challenge [Praise the Sun]
+[05Apr2025 02:44:15.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Birds of a Feather]
+[05Apr2025 02:44:25.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Apr2025 02:46:55.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 was kicked for floating too long!
+[05Apr2025 02:46:55.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 lost connection: Flying is not enabled on this server
+[05Apr2025 02:46:55.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 left the game
+[05Apr2025 02:46:55.207] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was unloaded
+[05Apr2025 02:46:55.256] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Apr2025 02:47:20.859] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@a4e3787
+[05Apr2025 02:47:20.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Azelt13[/127.141.133.186:41649] logged in with entity id 78885 at (1611.905045609783, 73.99809210301865, -936.9039830923856)
+[05Apr2025 02:47:20.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 joined the game
+[05Apr2025 02:47:20.918] [Server thread/INFO] [Waila/]: Syncing config to Azelt13 (97c8069c-1b68-310f-9372-37847e7cb4fa)
+[05Apr2025 02:47:21.140] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 97c8069c-1b68-310f-9372-37847e7cb4fa was loaded
+[05Apr2025 02:50:31.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has completed the challenge [Rude Awakening]
