@@ -803,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-05 02:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 02:19:46 +0000"
@@ -1706,12 +1712,15 @@
       "cooked_beef": "2025-04-01 01:08:35 +0000",
       "baked_potato": "2025-04-01 01:56:55 +0000",
       "bread": "2025-03-31 02:03:46 +0000",
+      "golden_apple": "2025-04-05 02:16:28 +0000",
       "rotten_flesh": "2025-04-01 01:29:31 +0000",
       "glow_berries": "2025-03-31 02:23:59 +0000",
       "dried_kelp": "2025-04-01 01:18:27 +0000",
+      "salmon": "2025-04-05 02:07:13 +0000",
       "melon_slice": "2025-03-31 02:05:57 +0000",
       "cooked_chicken": "2025-03-31 02:43:43 +0000",
-      "mushroom_stew": "2025-03-31 02:00:08 +0000"
+      "mushroom_stew": "2025-03-31 02:00:08 +0000",
+      "carrot": "2025-04-05 02:27:25 +0000"
     },
     "done": false
   },
@@ -1826,6 +1835,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-04 00:06:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-04-05 02:27:02 +0000"
     },
     "done": true
   },
@@ -2066,6 +2081,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-03-31 01:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-05 02:07:03 +0000"
     },
     "done": true
   },
@@ -2495,6 +2516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-05 02:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-31 01:53:09 +0000"
@@ -2636,6 +2663,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-04-01 00:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-05 02:27:22 +0000"
     },
     "done": true
   },

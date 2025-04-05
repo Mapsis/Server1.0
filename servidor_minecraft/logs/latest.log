@@ -416,3 +416,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 02:05:27.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Book of Monsters]
 [05Apr2025 02:07:51.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4427ms or 88 ticks behind
 [05Apr2025 02:07:55.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was slain by Fire Dragon
+[05Apr2025 02:10:37.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> gamemode creative
+[05Apr2025 02:14:11.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel was slain by Midnight Lurker
+[05Apr2025 02:18:52.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was doomed to fall by Fire Dragon
+[05Apr2025 02:18:55.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[05Apr2025 02:19:14.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was incinerated by Fire Dragon
+[05Apr2025 02:24:04.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was burnt to a crisp whilst fighting Fire Dragon
+[05Apr2025 02:28:55.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Dragonslayer]
+[05Apr2025 02:28:57.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maximous_11 moved too quickly! 4.921759292336674,1.2491870787446828,-8.883004462895201

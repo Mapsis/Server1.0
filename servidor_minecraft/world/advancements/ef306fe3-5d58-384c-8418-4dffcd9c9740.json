@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-05 02:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-01 00:24:35 +0000"
@@ -315,6 +321,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-01 00:53:38 +0000",
       "cooked_mutton": "2025-04-01 00:14:49 +0000",
+      "beetroot_soup": "2025-04-05 02:22:32 +0000",
       "apple": "2025-04-03 23:29:13 +0000",
       "cooked_cod": "2025-04-01 01:23:02 +0000",
       "bread": "2025-04-02 02:21:41 +0000",
@@ -770,6 +777,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-01 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-04-05 02:10:44 +0000"
     },
     "done": true
   },
