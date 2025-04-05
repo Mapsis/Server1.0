@@ -367,3 +367,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 00:59:11.451] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was loaded
 [05Apr2025 00:59:13.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2883ms or 57 ticks behind
 [05Apr2025 00:59:31.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[05Apr2025 01:11:05.223] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45417a88
+[05Apr2025 01:11:05.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.199.40.82:59209] logged in with entity id 2847 at (899.917215743776, 72.0, 2720.300000011921)
+[05Apr2025 01:11:05.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[05Apr2025 01:11:05.251] [Server thread/INFO] [Waila/]: Syncing config to miguel (864996ac-5f7e-3768-89df-9a426b678bda)
+[05Apr2025 01:11:06.790] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[05Apr2025 01:14:05.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> tienes slime?
+[05Apr2025 01:14:19.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> nei
