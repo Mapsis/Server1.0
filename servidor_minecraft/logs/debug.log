@@ -3182,3 +3182,45 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 02:49:08.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Apr2025 02:49:08.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Apr2025 02:50:31.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has completed the challenge [Rude Awakening]
+[05Apr2025 02:50:49.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Birds of a Feather]
+[05Apr2025 02:50:54.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was burnt to a crisp whilst fighting Azelt13
+[05Apr2025 02:50:59.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 fell from a high place
+[05Apr2025 02:54:08.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 02:54:08.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 02:54:29.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was slain by Spider
+[05Apr2025 02:55:27.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [Local Brewery]
+[05Apr2025 02:55:28.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[05Apr2025 02:55:28.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 02:55:28.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 02:55:28.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[05Apr2025 02:59:08.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 02:59:08.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 02:59:39.760] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/90243, l='ServerLevel[world]', x=1391.50, y=48.17, z=1130.51]
+[05Apr2025 02:59:39.760] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/90244, l='ServerLevel[world]', x=1391.22, y=47.75, z=1123.63]
+[05Apr2025 02:59:44.109] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/90242, l='ServerLevel[world]', x=1406.58, y=49.22, z=1139.73]
+[05Apr2025 02:59:46.761] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/90241, l='ServerLevel[world]', x=1423.96, y=52.41, z=1120.17]
+[05Apr2025 03:00:06.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 has made the advancement [A Seedy Place]
+[05Apr2025 03:01:25.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 1.7231124234881463,0.0,-10.256250073680235
+[05Apr2025 03:01:25.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 1.7893812643210367,0.0,-10.650722269279186
+[05Apr2025 03:01:25.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 1.8556500019640225,0.0,-11.04519448762062
+[05Apr2025 03:01:25.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 1.9219186467357758,0.0,-11.439666726430232
+[05Apr2025 03:01:25.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 1.9881872079236018,0.0,-11.834138983661205
+[05Apr2025 03:01:25.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 2.055142966173662,0.0,-12.228489626743226
+[05Apr2025 03:01:25.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 2.12401746172236,0.0,-12.622466604604938
+[05Apr2025 03:01:25.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 2.196454780757904,0.0,-13.01565664658574
+[05Apr2025 03:01:25.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! 2.2743957368006704,0.0,-13.40744211130459
+[05Apr2025 03:01:45.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -2.447605147420745,0.0,-10.107876930258499
+[05Apr2025 03:01:45.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -2.541743806878003,0.0,-10.496641427591385
+[05Apr2025 03:01:45.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -2.6358824663338964,0.0,-10.885405924924726
+[05Apr2025 03:01:45.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -2.7300211257884257,0.0,-11.274170422258294
+[05Apr2025 03:01:45.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -2.8241597852420455,0.0,-11.66293491959209
+[05Apr2025 03:01:45.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -2.9182984446947557,0.0,-12.051699416926112
+[05Apr2025 03:01:45.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Charlieedu1) moved too quickly! -3.0124371041465565,0.0,-12.440463914260363
+[05Apr2025 03:02:34.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Apr2025 03:04:08.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 03:04:08.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 03:06:13.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has completed the challenge [Praise the Sun]
+[05Apr2025 03:07:47.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was impaled by Drowned
+[05Apr2025 03:09:08.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 03:09:08.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 03:09:29.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was slain by Zombie

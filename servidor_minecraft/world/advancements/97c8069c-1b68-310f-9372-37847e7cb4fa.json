@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-05 02:56:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 02:09:02 +0000"
@@ -467,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-05 02:56:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-31 01:54:03 +0000"
@@ -587,6 +599,8 @@
       "minecraft:skeleton": "2025-03-31 02:09:46 +0000",
       "minecraft:spider": "2025-03-31 02:20:57 +0000",
       "minecraft:phantom": "2025-04-04 02:19:20 +0000",
+      "minecraft:enderman": "2025-04-05 03:07:07 +0000",
+      "minecraft:stray": "2025-04-05 02:53:41 +0000",
       "minecraft:zombie": "2025-03-31 02:17:44 +0000",
       "minecraft:drowned": "2025-04-01 01:29:52 +0000",
       "minecraft:zombie_villager": "2025-04-01 00:54:11 +0000"
@@ -842,6 +856,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-03-31 02:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-05 02:56:50 +0000"
     },
     "done": true
   },
@@ -1226,6 +1246,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-05 02:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-03-31 01:54:03 +0000"
@@ -1283,6 +1309,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-03-31 02:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-05 03:00:06 +0000"
     },
     "done": true
   },
@@ -1460,6 +1492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-05 02:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-04 00:06:07 +0000"
@@ -1520,6 +1558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-05 02:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-03-31 01:51:34 +0000"
@@ -1571,6 +1615,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-03-31 02:09:02 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2025-04-05 02:50:49 +0000"
     },
     "done": true
   },
@@ -1720,6 +1770,7 @@
       "dried_kelp": "2025-04-01 01:18:27 +0000",
       "salmon": "2025-04-05 02:07:13 +0000",
       "melon_slice": "2025-03-31 02:05:57 +0000",
+      "cooked_rabbit": "2025-04-05 02:58:24 +0000",
       "cooked_chicken": "2025-03-31 02:43:43 +0000",
       "mushroom_stew": "2025-03-31 02:00:08 +0000",
       "cooked_salmon": "2025-04-05 02:36:15 +0000",
@@ -2249,6 +2300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-05 02:53:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-31 01:47:21 +0000"
@@ -2543,6 +2600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-05 02:56:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-04-01 01:34:07 +0000"
@@ -2606,6 +2669,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-31 02:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-05 02:53:51 +0000"
     },
     "done": true
   },
