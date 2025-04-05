@@ -489,3 +489,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 22:18:11.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> metanse al disc
 [05Apr2025 22:18:19.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> tengo media hora aqui
 [05Apr2025 22:21:53.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported 4 entities to Maximous_11]
+[05Apr2025 22:24:58.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[05Apr2025 22:25:17.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[05Apr2025 22:25:44.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=909, y=67, z=2684} BlockPos{x=2019, y=65, z=-653}
+[05Apr2025 22:25:47.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made miguel a server operator]
+[05Apr2025 22:26:20.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[05Apr2025 22:26:42.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made miguel no longer a server operator]
+[05Apr2025 22:27:15.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made Azelt13 no longer a server operator]
+[05Apr2025 22:27:47.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2023, y=65, z=-608} BlockPos{x=2020, y=63, z=-652}
+[05Apr2025 22:28:14.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
+[05Apr2025 22:28:14.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[05Apr2025 22:28:14.655] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[05Apr2025 22:28:18.958] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@46fec7e4
+[05Apr2025 22:28:18.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.199.40.82:48383] logged in with entity id 52109 at (2019.690131053017, 64.0, -625.0509257462355)
+[05Apr2025 22:28:18.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[05Apr2025 22:28:19.119] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[05Apr2025 22:28:25.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Maximous_11 to 2918.000000, 64.000000, 1302.000000]
+[05Apr2025 22:28:28.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Made miguel a server operator]
+[05Apr2025 22:28:31.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 suffocated in a wall
+[05Apr2025 22:28:38.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[05Apr2025 22:28:46.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Maximous_11 to 2918.500000, 64.000000, 1302.500000]
+[05Apr2025 22:28:50.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 moved too quickly! 9.377551986112394,-3.2880296901768986,1.6947871722677519
+[05Apr2025 22:29:39.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Maximous_11 to 2959.000000, 64.000000, -1340.000000]
+[05Apr2025 22:29:48.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Azelt13 to Maximous_11]
+[05Apr2025 22:30:01.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Azelt13 moved too quickly! -1.9458428987454681,0.8322033533667508,-9.822587959803514
+[05Apr2025 22:30:05.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[05Apr2025 22:30:10.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3055ms or 61 ticks behind
