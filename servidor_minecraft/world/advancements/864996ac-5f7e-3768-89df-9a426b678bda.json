@@ -643,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-06 00:40:35 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_village": {
     "criteria": {
       "location0": "2025-04-04 01:31:32 +0000"
