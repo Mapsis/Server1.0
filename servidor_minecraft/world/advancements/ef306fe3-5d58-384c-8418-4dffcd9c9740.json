@@ -1762,6 +1762,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-04-02 02:01:36 +0000",
+      "minecraft:birch_forest": "2025-04-06 01:23:44 +0000",
       "minecraft:beach": "2025-04-01 00:14:13 +0000",
       "minecraft:dark_forest": "2025-04-01 00:43:46 +0000",
       "minecraft:lukewarm_ocean": "2025-04-01 00:18:48 +0000",
