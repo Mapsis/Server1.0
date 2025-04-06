@@ -162,3 +162,24 @@
 [06Apr2025 01:37:20.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> dolor de cabeza
 [06Apr2025 01:37:28.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Maximous_11 to Charlieedu1]
 [06Apr2025 01:37:50.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Gave 256 [Gold Ingot] to Charlieedu1]
+[06Apr2025 01:38:55.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> bueno adio gente
+[06Apr2025 01:38:59.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> charli
+[06Apr2025 01:39:08.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> cualquier cosa usa /save-all para que se guarde
+[06Apr2025 01:39:21.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> tiene autoguardado pero no se cada cuanto
+[06Apr2025 01:39:24.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Saved the game]
+[06Apr2025 01:39:30.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> dormir
+[06Apr2025 01:39:35.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maximous_11 lost connection: Disconnected
+[06Apr2025 01:39:35.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 left the game
+[06Apr2025 01:39:35.259] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was unloaded
+[06Apr2025 01:40:07.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[06Apr2025 01:40:07.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[06Apr2025 01:55:09.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was burnt to a crisp whilst fighting Skeleton
+[06Apr2025 01:57:18.226] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Apr2025 01:57:18.227] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Apr2025 01:57:18.238] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Apr2025 01:57:18.238] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Apr2025 01:57:18.246] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Apr2025 01:57:18.248] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Apr2025 01:57:18.249] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Apr2025 01:57:18.250] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Apr2025 01:57:18.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3369ms or 67 ticks behind
