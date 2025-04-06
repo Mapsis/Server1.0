@@ -3501,3 +3501,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Apr2025 01:07:05.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ah pero estas en las vias?
 [06Apr2025 01:07:16.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> bueno sigo las vias entonces
 [06Apr2025 01:07:22.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[06Apr2025 01:08:01.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 01:08:01.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 01:08:08.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Azelt13 was slain by Midnight Lurker
+[06Apr2025 01:09:19.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ah ya estas cerca
+[06Apr2025 01:12:11.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was doomed to fall
+[06Apr2025 01:12:17.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> que te pas
+[06Apr2025 01:12:27.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Charlieedu1 to Maximous_11]
+[06Apr2025 01:13:01.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 01:13:01.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 01:13:33.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> sigue con la webonada y te meto la pinga
+[06Apr2025 01:14:13.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> wa comer tambien
+[06Apr2025 01:15:50.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
+[06Apr2025 01:15:50.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[06Apr2025 01:15:50.413] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[06Apr2025 01:17:40.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> que paso con miguel
+[06Apr2025 01:18:01.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 01:18:01.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
