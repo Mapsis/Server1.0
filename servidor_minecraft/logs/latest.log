@@ -183,3 +183,5 @@
 [06Apr2025 01:57:18.249] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [06Apr2025 01:57:18.250] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [06Apr2025 01:57:18.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3369ms or 67 ticks behind
+[06Apr2025 01:59:31.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2846, y=145, z=-1170} BlockPos{x=2846, y=145, z=-1169}
+[06Apr2025 02:00:52.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2836, y=144, z=-1179} BlockPos{x=2837, y=143, z=-1180}
