@@ -3413,3 +3413,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Apr2025 00:23:45.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 was blown up by Creeper
 [06Apr2025 00:23:50.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> buena
 [06Apr2025 00:25:00.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> para que se usaba la carne podrida
+[06Apr2025 00:27:11.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[06Apr2025 00:27:29.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
+[06Apr2025 00:27:35.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 00:27:35.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 00:27:49.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5403ms or 108 ticks behind
+[06Apr2025 00:28:08.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[06Apr2025 00:28:26.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Apr2025 00:28:49.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7461ms or 149 ticks behind
+[06Apr2025 00:29:12.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[06Apr2025 00:29:46.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[06Apr2025 00:30:03.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2748ms or 54 ticks behind
+[06Apr2025 00:30:25.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[06Apr2025 00:32:30.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 fell from a high place
+[06Apr2025 00:32:59.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 00:32:59.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 00:35:07.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Stay Out of my Peripheral!]
+[06Apr2025 00:35:07.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [Best Friends Forever]
+[06Apr2025 00:35:34.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> hey
+[06Apr2025 00:35:38.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> me salio un bicho de un webo
+[06Apr2025 00:36:03.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> que comen
+[06Apr2025 00:36:12.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> cockatride
+[06Apr2025 00:36:18.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> cockatrice
+[06Apr2025 00:36:35.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> es de tu mod de mierda
+[06Apr2025 00:36:37.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> lo pase por disc
