@@ -3118,3 +3118,68 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 20:26:09.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
 [12Apr2025 20:26:31.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Apr2025 20:26:31.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:31:31.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:31:31.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:32:15.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Ol' Betsy]
+[12Apr2025 20:33:49.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> listo
+[12Apr2025 20:33:54.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> pongo una waystone
+[12Apr2025 20:34:39.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 20:34:51.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ven
+[12Apr2025 20:35:03.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 20:35:19.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> no tengo xp
+[12Apr2025 20:35:27.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ironico
+[12Apr2025 20:36:31.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:36:31.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:36:49.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> y mi waystone?
+[12Apr2025 20:36:53.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> es esta?
+[12Apr2025 20:36:58.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> nop
+[12Apr2025 20:37:04.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> esa la saque para que estuviera global
+[12Apr2025 20:37:08.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ya te devuelvo la tuya
+[12Apr2025 20:37:21.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 20:37:45.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> tardan un webo
+[12Apr2025 20:38:07.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 20:38:19.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Spectator Mode]
+[12Apr2025 20:38:33.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 20:39:00.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> curiroso que se necesita xp para ir a la granja de xp
+[12Apr2025 20:40:00.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> quitaste las antorchas verdad?
+[12Apr2025 20:40:04.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> sip
+[12Apr2025 20:40:08.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> con luz tardan mas en aparecer
+[12Apr2025 20:40:11.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> se estan atascando
+[12Apr2025 20:40:14.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> a
+[12Apr2025 20:41:07.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> creo que se como resolverlo
+[12Apr2025 20:41:31.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:41:31.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:41:50.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 20:42:10.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 20:42:35.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 20:42:55.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> alv
+[12Apr2025 20:43:01.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> xd
+[12Apr2025 20:43:10.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported miguel to Maximous_11]
+[12Apr2025 20:43:55.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Spectator Mode]
+[12Apr2025 20:44:31.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 20:44:54.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 20:45:10.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> la cague
+[12Apr2025 20:45:14.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 20:45:20.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> me borre todo el inventario sin querer
+[12Apr2025 20:45:23.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> xd
+[12Apr2025 20:46:05.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 20:46:09.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> y los zonbis pues?
+[12Apr2025 20:46:17.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Spectator Mode]
+[12Apr2025 20:46:31.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:46:31.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:47:03.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 20:49:58.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Spectator Mode]
+[12Apr2025 20:50:05.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 20:50:13.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> nah si sirve
+[12Apr2025 20:50:29.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> pero hay que dejarlo afk un rato para que spawneen
+[12Apr2025 20:51:31.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:51:31.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:52:05.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> tengo 10 niveles
+[12Apr2025 20:52:10.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> lo deje afk un rato
+[12Apr2025 20:52:39.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> 3 niveles
+[12Apr2025 20:55:09.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 20:55:39.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 20:56:07.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> aqui no hay naa
+[12Apr2025 20:56:31.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:56:31.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:56:44.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> tienes que quedarte ahi para que vayan spawneando

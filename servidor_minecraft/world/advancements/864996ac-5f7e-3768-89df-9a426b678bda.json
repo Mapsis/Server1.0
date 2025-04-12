@@ -1460,7 +1460,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-04-06 00:55:46 +0000"
+      "minecraft:crimson_forest": "2025-04-06 00:55:46 +0000",
+      "minecraft:soul_sand_valley": "2025-04-12 20:51:12 +0000"
     },
     "done": false
   },
@@ -1545,6 +1546,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-03-31 00:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-12 20:51:21 +0000"
     },
     "done": true
   },
@@ -2659,6 +2666,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-31 00:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-12 20:32:15 +0000"
     },
     "done": true
   },
