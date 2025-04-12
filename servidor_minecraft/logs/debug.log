@@ -3015,3 +3015,70 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 19:37:18.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> es por l mod
 [12Apr2025 19:37:20.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> esta bug
 [12Apr2025 19:37:31.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> no deberia picarse con pico de madera
+[12Apr2025 19:37:56.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> bueno tenemos que buscar uno y hacer la granja ahi mismo
+[12Apr2025 19:38:17.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> diamnate
+[12Apr2025 19:39:26.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> aqui hay otro
+[12Apr2025 19:39:44.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> de zombi o esqueleto
+[12Apr2025 19:39:49.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> zombi
+[12Apr2025 19:40:24.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> sera aca
+[12Apr2025 19:40:29.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> encierra esta zona
+[12Apr2025 19:41:27.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> hacemos un tunel?
+[12Apr2025 19:41:31.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:41:31.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:41:35.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> o ponemos waystone y y?
+[12Apr2025 19:41:39.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> hazlo
+[12Apr2025 19:41:44.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> yo voy haciendo la granja
+[12Apr2025 19:44:10.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> busco los materiales
+[12Apr2025 19:44:24.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> son basicos
+[12Apr2025 19:44:37.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> la mayoria los tengo, lo unico que falta es alga
+[12Apr2025 19:46:31.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:46:31.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:48:06.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> listo el hueco
+[12Apr2025 19:48:25.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> charli desde cuando estas aca
+[12Apr2025 19:48:41.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> es bot, charli esta ocupado haciendo tarea
+[12Apr2025 19:48:59.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 19:49:19.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 19:49:54.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 19:50:09.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 19:50:24.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> creo que necesitamos tierra de almas
+[12Apr2025 19:50:35.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> para?
+[12Apr2025 19:51:09.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> ahi en el spawn hay un portal
+[12Apr2025 19:51:31.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:51:31.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:53:23.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> para la granja
+[12Apr2025 19:53:28.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> busca tierra de almas
+[12Apr2025 19:53:31.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> yo busco las algas
+[12Apr2025 19:54:03.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1405, y=48, z=329} BlockPos{x=1405, y=47, z=329}
+[12Apr2025 19:56:31.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:56:31.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:56:40.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> rompiste la waystone?
+[12Apr2025 19:56:45.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> no
+[12Apr2025 19:56:48.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> ahi ta
+[12Apr2025 19:56:58.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> no me sale
+[12Apr2025 19:57:00.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> me hago tp
+[12Apr2025 19:57:03.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> zombis
+[12Apr2025 19:57:24.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 has made the advancement [We Need to Go Deeper]
+[12Apr2025 19:57:24.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Maximous_11 to miguel]
+[12Apr2025 19:57:29.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> a
+[12Apr2025 19:57:51.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Maximous_11 to Charlieedu1]
+[12Apr2025 19:58:07.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> asi se hace tarea
+[12Apr2025 19:58:34.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> mi no comprende sarcasmo humano
+[12Apr2025 19:59:29.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ya estas en el spawner miguel
+[12Apr2025 19:59:33.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> no recuerdo donde era
+[12Apr2025 20:00:15.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Maximous_11 to miguel]
+[12Apr2025 20:01:31.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:01:31.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 20:03:04.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> si sabes que no tiene que ir tan juntos verdad?
+[12Apr2025 20:03:05.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Charlieedu1> me asustasre
+[12Apr2025 20:03:36.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> llego el agua?
+[12Apr2025 20:04:09.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> con el mod de parcool no necesitamos arena de alams pa subir mas rapido
+[12Apr2025 20:04:23.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> con sprintear es suficiente
+[12Apr2025 20:04:44.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charlieedu1 lost connection: Disconnected
+[12Apr2025 20:04:44.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 left the game
+[12Apr2025 20:04:44.546] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ef306fe3-5d58-384c-8418-4dffcd9c9740 was unloaded
+[12Apr2025 20:04:47.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> a
+[12Apr2025 20:04:52.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> se fue el bot
+[12Apr2025 20:05:30.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> dame un pico
+[12Apr2025 20:06:13.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> rompe eso de madera
+[12Apr2025 20:06:31.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 20:06:31.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
