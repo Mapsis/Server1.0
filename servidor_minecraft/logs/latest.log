@@ -720,3 +720,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 21:32:03.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> xd
 [12Apr2025 21:32:12.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> no srivio
 [12Apr2025 21:32:19.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> ha bueno
+[12Apr2025 21:52:38.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 21:54:16.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has made the advancement [Hidden in the Depths]
+[12Apr2025 21:54:18.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> sueltan hasta bolsos
+[12Apr2025 21:56:56.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> sigo jugando despues
+[12Apr2025 21:57:04.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> me avisas si apago el server
+[12Apr2025 21:57:21.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Saved the game]
+[12Apr2025 21:57:24.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maximous_11 lost connection: Disconnected
+[12Apr2025 21:57:24.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 left the game
+[12Apr2025 21:57:24.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was unloaded
