@@ -743,3 +743,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 22:14:46.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel2 has made the advancement [Ice and Fire]
 [12Apr2025 22:14:48.154] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a1b20d14-60e0-3357-896f-2f46f64f2655 was loaded
 [12Apr2025 22:15:03.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel2 moved too quickly! 8.028755992397237,-4.478372647550287,3.985239876505716
+[12Apr2025 22:59:24.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
+[12Apr2025 22:59:24.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[12Apr2025 22:59:24.744] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
