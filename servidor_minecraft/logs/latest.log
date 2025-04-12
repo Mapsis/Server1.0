@@ -500,3 +500,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 19:11:55.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> deja veo si encuentro una dungeon
 [12Apr2025 19:13:01.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Spectator Mode]
 [12Apr2025 19:16:30.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Saved the game]
+[12Apr2025 19:17:31.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 19:17:40.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> encontre una dungeon de mina
+[12Apr2025 19:17:49.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> le doy a ver si encuentro un spawner
+[12Apr2025 19:25:00.463] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d57b0e5
+[12Apr2025 19:25:00.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Charlieedu1[/127.207.4.100:35749] logged in with entity id 45201 at (2050.5235689610813, 64.0, -671.4319351439218)
+[12Apr2025 19:25:00.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 joined the game
+[12Apr2025 19:25:00.974] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ef306fe3-5d58-384c-8418-4dffcd9c9740 was loaded
