@@ -372,3 +372,49 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 18:15:43.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.199.40.82:35869] logged in with entity id 18061 at (1905.023254840975, 112.0, -430.86108529105616)
 [12Apr2025 18:15:43.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
 [12Apr2025 18:15:44.920] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[12Apr2025 18:16:04.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> el que se quede es gay
+[12Apr2025 18:16:05.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
+[12Apr2025 18:16:05.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[12Apr2025 18:16:05.303] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[12Apr2025 18:16:11.007] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d48b693
+[12Apr2025 18:16:11.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.199.40.82:54071] logged in with entity id 18388 at (1905.023254840975, 112.0, -430.86108529105616)
+[12Apr2025 18:16:11.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[12Apr2025 18:16:11.224] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[12Apr2025 18:16:17.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> na mentira
+[12Apr2025 18:17:30.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> csm
+[12Apr2025 18:17:36.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> no se que me pasa por la cabeza
+[12Apr2025 18:17:49.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> hice un barco en vez de una bagoneta pa uar las vias del tren
+[12Apr2025 18:18:13.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> volvi
+[12Apr2025 18:18:26.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> son 7 de hierro creo una vagoneta
+[12Apr2025 18:18:36.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> pero yo hice un barco no c pq
+[12Apr2025 18:18:37.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> xd
+[12Apr2025 18:18:40.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> a no
+[12Apr2025 18:18:42.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> son 5
+[12Apr2025 18:19:27.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> y si hacemos una granja de cp
+[12Apr2025 18:19:31.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> xp*
+[12Apr2025 18:19:50.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> taba pensando lo mismo
+[12Apr2025 18:20:10.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> pero no recuerdo como era la mejor forma
+[12Apr2025 18:20:18.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> en tiktok vi una
+[12Apr2025 18:20:26.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> con armadillos
+[12Apr2025 18:21:03.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> que necesitamos
+[12Apr2025 18:21:31.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 18:21:34.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Saved the game]
+[12Apr2025 18:21:39.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> armadillos, tridentes, posiones
+[12Apr2025 18:21:47.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> una vainas ahi
+[12Apr2025 18:21:57.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> pero creo que pa ahcerla se necesita creativo
+[12Apr2025 18:22:11.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> armadillos?
+[12Apr2025 18:22:15.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> se
+[12Apr2025 18:22:16.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> hay armadillos en esta version
+[12Apr2025 18:22:19.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ?
+[12Apr2025 18:22:23.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> ni idea
+[12Apr2025 18:22:39.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> a ver me pongo en creativo si esta
+[12Apr2025 18:22:42.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 18:23:30.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> pase el tuto por tiktok
+[12Apr2025 18:23:36.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> el grupo*
+[12Apr2025 18:23:53.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> no veo armadillo por ningun spawner
+[12Apr2025 18:24:13.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> aaahhh
+[12Apr2025 18:24:19.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ya recuerdo cuales son
+[12Apr2025 18:25:29.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> pez de plata se llaman
+[12Apr2025 18:25:44.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> eso es otra cosa
+[12Apr2025 18:25:49.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> silver fish
+[12Apr2025 18:26:03.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ah no
