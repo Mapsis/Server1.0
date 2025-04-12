@@ -729,3 +729,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 21:57:24.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maximous_11 lost connection: Disconnected
 [12Apr2025 21:57:24.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 left the game
 [12Apr2025 21:57:24.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was unloaded
+[12Apr2025 22:12:22.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: You logged in from another location
+[12Apr2025 22:12:22.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[12Apr2025 22:12:22.147] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[12Apr2025 22:12:22.161] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2928e4c9
+[12Apr2025 22:12:22.195] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Apr2025 22:12:22.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.199.40.82:34131] logged in with entity id 107115 at (1891.6845407281942, -43.0, -600.6803316055099)
+[12Apr2025 22:12:22.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[12Apr2025 22:12:22.864] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[12Apr2025 22:14:46.744] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@724993e0
+[12Apr2025 22:14:46.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel2[/127.199.40.82:33127] logged in with entity id 107431 at (2019.5, 64.0, -653.5)
+[12Apr2025 22:14:46.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel2 joined the game
+[12Apr2025 22:14:46.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel2 has made the advancement [Ice and Fire]
+[12Apr2025 22:14:48.154] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a1b20d14-60e0-3357-896f-2f46f64f2655 was loaded
+[12Apr2025 22:15:03.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel2 moved too quickly! 8.028755992397237,-4.478372647550287,3.985239876505716
