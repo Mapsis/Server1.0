@@ -756,3 +756,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 23:20:37.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miguel: Config for waystones of type SERVER not found]
 [12Apr2025 23:21:04.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miguel: Config for waystones of type CLIENT not found]
 [12Apr2025 23:21:36.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miguel: Config for waystones of type COMMON found at waystones-common.toml]
+[12Apr2025 23:38:59.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
+[12Apr2025 23:38:59.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[12Apr2025 23:38:59.296] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[12Apr2025 23:39:02.896] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b1fb3b1
+[12Apr2025 23:39:02.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.199.40.82:40887] logged in with entity id 122938 at (882.3029666211941, 104.0, 2718.5497025016243)
+[12Apr2025 23:39:02.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[12Apr2025 23:39:03.498] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[12Apr2025 23:40:22.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
+[12Apr2025 23:40:22.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[12Apr2025 23:40:22.396] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[12Apr2025 23:40:26.797] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c68d9c1
+[12Apr2025 23:40:26.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.199.40.82:48657] logged in with entity id 123276 at (882.3029666211941, 104.0, 2718.5497025016243)
+[12Apr2025 23:40:26.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[12Apr2025 23:40:27.387] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
