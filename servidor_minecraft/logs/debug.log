@@ -2971,3 +2971,47 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 19:25:00.974] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ef306fe3-5d58-384c-8418-4dffcd9c9740 was loaded
 [12Apr2025 19:26:31.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Apr2025 19:26:31.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:29:16.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> no sirve
+[12Apr2025 19:29:20.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> lo del spawn
+[12Apr2025 19:29:36.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> acabo de picar uno y no me lo dio
+[12Apr2025 19:29:40.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> se rompe
+[12Apr2025 19:30:21.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> entonces se tendra que hacer en un spawner de esos
+[12Apr2025 19:30:26.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> se pone una waystone
+[12Apr2025 19:30:39.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> tira tp
+[12Apr2025 19:30:40.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 was slain by Enderman
+[12Apr2025 19:30:53.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> deme chance joven
+[12Apr2025 19:31:29.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> tu necesitabas telaraña?
+[12Apr2025 19:31:31.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:31:31.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:31:57.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> yo tengo telaraña
+[12Apr2025 19:32:02.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> aqui hay que jode
+[12Apr2025 19:32:09.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> llgate
+[12Apr2025 19:34:24.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> como hago para colocar una waystone y que todos se puedan teletransportar?
+[12Apr2025 19:34:39.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> tienes que craftearla
+[12Apr2025 19:34:50.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> y cuando la pones te sale un boton para ponerla global
+[12Apr2025 19:34:58.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> mariko si picas una waystone con toque de seda sale otra xd
+[12Apr2025 19:35:33.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> creo que encontre un spawner
+[12Apr2025 19:35:38.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> voy a poner una waystone
+[12Apr2025 19:35:39.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> yo tengo uno enfrente
+[12Apr2025 19:35:43.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> te esoy esparando
+[12Apr2025 19:35:49.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> a
+[12Apr2025 19:35:50.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> donde estas
+[12Apr2025 19:35:58.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> bien lejos
+[12Apr2025 19:36:01.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> tira tp
+[12Apr2025 19:36:07.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 19:36:10.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Teleported Maximous_11 to miguel]
+[12Apr2025 19:36:15.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
+[12Apr2025 19:36:24.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> pero es de arañas
+[12Apr2025 19:36:26.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> lo pico?
+[12Apr2025 19:36:31.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:36:31.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:36:35.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> no
+[12Apr2025 19:36:40.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> si no te lo da entonces no
+[12Apr2025 19:36:52.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> pudo ser un bug
+[12Apr2025 19:36:54.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> pero tiene que ser de esqueleto o zombi
+[12Apr2025 19:36:57.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> yo creo que es por el mod
+[12Apr2025 19:37:02.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> dale a ver
+[12Apr2025 19:37:07.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> pq mira como sale que se pica con el pico de madra
+[12Apr2025 19:37:18.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> es por l mod
+[12Apr2025 19:37:20.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> esta bug
+[12Apr2025 19:37:31.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> no deberia picarse con pico de madera
