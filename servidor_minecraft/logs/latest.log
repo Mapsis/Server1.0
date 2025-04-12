@@ -746,3 +746,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 22:59:24.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: Disconnected
 [12Apr2025 22:59:24.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
 [12Apr2025 22:59:24.744] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[12Apr2025 23:14:19.051] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@150c2309
+[12Apr2025 23:14:19.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.199.40.82:47239] logged in with entity id 119424 at (1893.699999988079, -43.0, -601.6118148806893)
+[12Apr2025 23:14:19.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[12Apr2025 23:14:19.606] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[12Apr2025 23:14:57.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel2 lost connection: Disconnected
+[12Apr2025 23:14:57.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel2 left the game
+[12Apr2025 23:14:57.346] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a1b20d14-60e0-3357-896f-2f46f64f2655 was unloaded
+[12Apr2025 23:20:37.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miguel: Config for waystones of type SERVER not found]
+[12Apr2025 23:21:04.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miguel: Config for waystones of type CLIENT not found]
+[12Apr2025 23:21:36.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [miguel: Config for waystones of type COMMON found at waystones-common.toml]
