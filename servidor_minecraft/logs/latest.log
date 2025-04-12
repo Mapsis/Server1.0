@@ -683,3 +683,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 20:55:39.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Survival Mode]
 [12Apr2025 20:56:07.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> aqui no hay naa
 [12Apr2025 20:56:44.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> tienes que quedarte ahi para que vayan spawneando
+[12Apr2025 21:01:13.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maximous_11: Set own game mode to Creative Mode]
+[12Apr2025 21:07:21.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <miguel> que divertido
