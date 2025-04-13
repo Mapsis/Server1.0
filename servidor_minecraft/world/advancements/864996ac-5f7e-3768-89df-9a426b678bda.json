@@ -2251,6 +2251,12 @@
     },
     "done": true
   },
+  "unusualprehistory:amber_fossil": {
+    "criteria": {
+      "requirement": "2025-04-13 00:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-04 02:05:42 +0000"
