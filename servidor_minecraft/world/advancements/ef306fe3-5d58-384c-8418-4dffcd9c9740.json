@@ -423,6 +423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-13 02:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-04-01 00:22:34 +0000"
@@ -1160,6 +1166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-13 02:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-01 00:46:24 +0000"
@@ -1811,6 +1823,7 @@
       "minecraft:ocean": "2025-04-01 00:18:51 +0000",
       "minecraft:jungle": "2025-04-05 03:04:59 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-05 03:17:40 +0000",
+      "minecraft:flower_forest": "2025-04-13 02:39:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-01 00:20:59 +0000",
       "minecraft:meadow": "2025-04-06 00:03:39 +0000",
       "minecraft:savanna": "2025-04-01 01:00:37 +0000",
@@ -1947,6 +1960,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-01 00:46:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-13 02:40:04 +0000"
     },
     "done": true
   },
