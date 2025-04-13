@@ -2,3 +2,7 @@
 [13Apr2025 00:24:37.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has completed the challenge [Unusual Park]
 [13Apr2025 00:47:41.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from miguel: hit position BlockPos{x=257, y=66, z=-80} too far away from player BlockPos{x=2065, y=65, z=-639}.
 [13Apr2025 00:47:41.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from miguel: hit position BlockPos{x=257, y=66, z=-80} too far away from player BlockPos{x=2065, y=65, z=-639}.
+[13Apr2025 01:51:54.961] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@596aa186
+[13Apr2025 01:51:54.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maximous_11[/127.227.221.80:50209] logged in with entity id 146715 at (1357.926565994173, 72.5625, 356.49366043649525)
+[13Apr2025 01:51:54.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 joined the game
+[13Apr2025 01:51:55.683] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was loaded
