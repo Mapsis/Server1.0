@@ -1304,6 +1304,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-04-13 02:18:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-05 22:42:49 +0000"
@@ -1439,6 +1445,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-05 22:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-04-13 02:25:48 +0000"
     },
     "done": true
   },
@@ -1786,6 +1798,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-13 02:26:45 +0000",
       "minecraft:sunflower_plains": "2025-04-02 02:01:36 +0000",
       "minecraft:birch_forest": "2025-04-06 01:23:44 +0000",
       "minecraft:beach": "2025-04-01 00:14:13 +0000",
@@ -2066,6 +2079,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-04-05 21:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-04-13 02:25:48 +0000"
     },
     "done": true
   },
