@@ -12,3 +12,22 @@
 [13Apr2025 01:56:02.279] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ef306fe3-5d58-384c-8418-4dffcd9c9740 was loaded
 [13Apr2025 02:02:05.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [We Need to Go Deeper]
 [13Apr2025 02:02:57.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 tried to swim in lava
+[13Apr2025 02:07:21.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maximous_11> ,/kill miguel
+[13Apr2025 02:08:59.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [Getting an Upgrade]
+[13Apr2025 02:13:01.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: You logged in from another location
+[13Apr2025 02:13:01.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[13Apr2025 02:13:01.405] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[13Apr2025 02:13:01.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.199.40.82:43409] logged in with entity id 163840 at (899.1815672565434, 101.5, 2732.5733153270253)
+[13Apr2025 02:13:01.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[13Apr2025 02:13:02.018] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[13Apr2025 02:13:09.059] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a943832
+[13Apr2025 02:13:09.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: miguel lost connection: You logged in from another location
+[13Apr2025 02:13:09.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel left the game
+[13Apr2025 02:13:09.109] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was unloaded
+[13Apr2025 02:13:09.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel[/127.199.40.82:60385] logged in with entity id 163925 at (899.1815672565434, 101.5, 2732.5733153270253)
+[13Apr2025 02:13:09.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel joined the game
+[13Apr2025 02:13:09.311] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 864996ac-5f7e-3768-89df-9a426b678bda was loaded
+[13Apr2025 02:15:17.011] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16575dff
+[13Apr2025 02:15:17.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: miguel2[/127.199.40.82:37247] logged in with entity id 166263 at (1889.925000011921, -43.0, -603.0749999880791)
+[13Apr2025 02:15:17.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel2 joined the game
+[13Apr2025 02:15:18.612] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a1b20d14-60e0-3357-896f-2f46f64f2655 was loaded
