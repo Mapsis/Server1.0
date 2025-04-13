@@ -1,2 +1,4 @@
 [13Apr2025 00:01:36.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/93505, l='ServerLevel[world]', x=1887.75, y=-42.13, z=-599.75] died, message: 'Villager was burnt to a crisp whilst fighting miguel'
 [13Apr2025 00:24:37.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: miguel has completed the challenge [Unusual Park]
+[13Apr2025 00:47:41.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from miguel: hit position BlockPos{x=257, y=66, z=-80} too far away from player BlockPos{x=2065, y=65, z=-639}.
+[13Apr2025 00:47:41.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from miguel: hit position BlockPos{x=257, y=66, z=-80} too far away from player BlockPos{x=2065, y=65, z=-639}.
