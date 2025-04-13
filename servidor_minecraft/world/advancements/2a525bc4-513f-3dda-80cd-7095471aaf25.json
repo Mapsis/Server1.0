@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-04-13 03:13:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-04-04 00:26:55 +0000"
@@ -368,6 +374,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-03-31 00:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-04-13 03:09:47 +0000"
     },
     "done": true
   },
@@ -440,6 +452,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-30 17:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-04-13 03:13:51 +0000"
     },
     "done": true
   },
@@ -725,6 +743,7 @@
       "minecraft:spider": "2025-03-30 17:05:49 +0000",
       "minecraft:piglin_brute": "2025-04-04 01:33:54 +0000",
       "minecraft:creeper": "2025-03-31 01:36:18 +0000",
+      "minecraft:phantom": "2025-04-13 03:24:15 +0000",
       "minecraft:witch": "2025-04-04 01:45:19 +0000",
       "minecraft:cave_spider": "2025-04-04 00:45:25 +0000",
       "minecraft:piglin": "2025-04-04 01:34:02 +0000",
@@ -1503,6 +1522,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-31 00:38:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-04-13 03:08:33 +0000"
     },
     "done": true
   },
@@ -2630,6 +2655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-04-13 03:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-04 03:13:50 +0000"
@@ -3260,6 +3291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-04-13 03:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-31 01:26:11 +0000"
@@ -3323,6 +3360,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-05 03:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-04-13 03:09:47 +0000"
     },
     "done": true
   },
