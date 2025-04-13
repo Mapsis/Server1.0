@@ -6,3 +6,9 @@
 [13Apr2025 01:51:54.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maximous_11[/127.227.221.80:50209] logged in with entity id 146715 at (1357.926565994173, 72.5625, 356.49366043649525)
 [13Apr2025 01:51:54.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maximous_11 joined the game
 [13Apr2025 01:51:55.683] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 2a525bc4-513f-3dda-80cd-7095471aaf25 was loaded
+[13Apr2025 01:56:01.806] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@42c90d51
+[13Apr2025 01:56:01.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Charlieedu1[/127.207.4.100:60173] logged in with entity id 149967 at (1904.3907586283733, 64.0, -648.0290696270382)
+[13Apr2025 01:56:01.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 joined the game
+[13Apr2025 01:56:02.279] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ef306fe3-5d58-384c-8418-4dffcd9c9740 was loaded
+[13Apr2025 02:02:05.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 has made the advancement [We Need to Go Deeper]
+[13Apr2025 02:02:57.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Charlieedu1 tried to swim in lava
