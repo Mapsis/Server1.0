@@ -1331,6 +1331,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-13 03:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-03-31 00:37:43 +0000"
@@ -1442,9 +1448,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-13 03:03:56 +0000",
+      "minecraft:deep_ocean": "2025-04-13 03:46:54 +0000",
       "minecraft:frozen_river": "2025-03-30 17:13:10 +0000",
       "minecraft:sunflower_plains": "2025-03-30 16:40:15 +0000",
       "minecraft:birch_forest": "2025-03-30 17:34:04 +0000",
+      "minecraft:windswept_hills": "2025-04-13 03:33:12 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 17:36:44 +0000",
       "minecraft:beach": "2025-03-30 16:46:17 +0000",
       "minecraft:dark_forest": "2025-03-31 01:09:52 +0000",
@@ -1455,6 +1463,7 @@
       "minecraft:snowy_plains": "2025-03-30 17:13:03 +0000",
       "minecraft:snowy_taiga": "2025-03-30 17:13:27 +0000",
       "minecraft:dripstone_caves": "2025-04-06 00:03:05 +0000",
+      "minecraft:swamp": "2025-04-13 03:33:00 +0000",
       "minecraft:cold_ocean": "2025-03-30 17:35:10 +0000",
       "minecraft:forest": "2025-03-30 16:45:57 +0000",
       "minecraft:deep_cold_ocean": "2025-03-30 17:34:34 +0000",
@@ -1462,6 +1471,7 @@
       "minecraft:ocean": "2025-03-30 17:50:15 +0000",
       "minecraft:jungle": "2025-03-30 17:35:58 +0000",
       "minecraft:snowy_beach": "2025-03-30 17:13:07 +0000",
+      "minecraft:windswept_savanna": "2025-04-13 03:36:05 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-13 02:28:30 +0000",
       "minecraft:flower_forest": "2025-03-30 17:03:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-30 17:37:04 +0000",
@@ -3066,6 +3076,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-01 00:31:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-04-13 03:28:59 +0000"
     },
     "done": true
   },
